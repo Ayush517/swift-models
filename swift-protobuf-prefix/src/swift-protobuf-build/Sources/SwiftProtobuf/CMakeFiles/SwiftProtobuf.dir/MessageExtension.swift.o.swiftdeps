@@ -1,0 +1,695 @@
+# Fine-grained v0
+---
+allNodes:
+  - key:
+      kind:            sourceFileProvide
+      aspect:          interface
+      context:         ''
+      name:            'Sources/SwiftProtobuf/CMakeFiles/SwiftProtobuf.dir/MessageExtension.swift.o.swiftdeps'
+    fingerprint:     eb11f23d7ccf4c15ff90c1d46f117a9a
+    sequenceNumber:  0
+    defsIDependUpon: [ 82, 80, 79, 77, 76, 75, 74, 64, 62, 58, 57, 56, 
+                       54, 53, 52, 51, 50, 49, 47, 45, 44, 43, 42, 41, 
+                       40, 39, 38, 36, 35, 34, 33, 32, 31, 30, 29, 28, 
+                       27, 26, 71, 24, 70, 23, 22, 68, 21, 20, 65, 18, 
+                       16, 19, 72, 25, 37, 14 ]
+    isProvides:      true
+  - key:
+      kind:            sourceFileProvide
+      aspect:          implementation
+      context:         ''
+      name:            'Sources/SwiftProtobuf/CMakeFiles/SwiftProtobuf.dir/MessageExtension.swift.o.swiftdeps'
+    fingerprint:     eb11f23d7ccf4c15ff90c1d46f117a9a
+    sequenceNumber:  1
+    defsIDependUpon: [ 81, 73, 67, 17, 63, 83, 60, 59, 61, 15, 48, 69, 
+                       46, 66, 78, 55 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            AnyMessageExtension
+    fingerprint:     a97276acd9f85b73a806d23201584a7f
+    sequenceNumber:  2
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            AnyMessageExtension
+    fingerprint:     a97276acd9f85b73a806d23201584a7f
+    sequenceNumber:  3
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            MessageExtension
+    fingerprint:     0b493c77c2df72a80b5568a0d25efb81
+    sequenceNumber:  4
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            MessageExtension
+    fingerprint:     0b493c77c2df72a80b5568a0d25efb81
+    sequenceNumber:  5
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            ''
+    fingerprint:     a97276acd9f85b73a806d23201584a7f
+    sequenceNumber:  6
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            ''
+    fingerprint:     a97276acd9f85b73a806d23201584a7f
+    sequenceNumber:  7
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            ''
+    fingerprint:     0b493c77c2df72a80b5568a0d25efb81
+    sequenceNumber:  8
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            ''
+    fingerprint:     0b493c77c2df72a80b5568a0d25efb81
+    sequenceNumber:  9
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            ''
+    fingerprint:     a97276acd9f85b73a806d23201584a7f
+    sequenceNumber:  10
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            ''
+    fingerprint:     a97276acd9f85b73a806d23201584a7f
+    sequenceNumber:  11
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            ''
+    fingerprint:     0b493c77c2df72a80b5568a0d25efb81
+    sequenceNumber:  12
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            ''
+    fingerprint:     0b493c77c2df72a80b5568a0d25efb81
+    sequenceNumber:  13
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            AnyExtensionField
+    sequenceNumber:  14
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            MessageType
+    sequenceNumber:  15
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Int
+    sequenceNumber:  16
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            FieldType
+    sequenceNumber:  17
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Message
+    sequenceNumber:  18
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            AssignmentPrecedence
+    sequenceNumber:  19
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ExtensionField
+    sequenceNumber:  20
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Decoder
+    sequenceNumber:  21
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            String
+    sequenceNumber:  22
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Swift.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  23
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  24
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Foundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  25
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Darwin.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  26
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes'
+    sequenceNumber:  27
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreFoundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  28
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes'
+    sequenceNumber:  29
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes'
+    sequenceNumber:  30
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Dispatch.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  31
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/ObjectiveC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  32
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreGraphics.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  33
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    sequenceNumber:  34
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/IOKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  35
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    sequenceNumber:  36
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes'
+    sequenceNumber:  37
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    sequenceNumber:  38
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes'
+    sequenceNumber:  39
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    sequenceNumber:  40
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/XPC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  41
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            ''
+    sequenceNumber:  42
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  43
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  44
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         13SwiftProtobuf17AnyExtensionFieldP
+      name:            ''
+    sequenceNumber:  45
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         13SwiftProtobuf14ExtensionFieldP
+      name:            ''
+    sequenceNumber:  46
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            fieldName
+    sequenceNumber:  47
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            init
+    sequenceNumber:  48
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            init
+    sequenceNumber:  49
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  50
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  51
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            Int
+    sequenceNumber:  52
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            messageType
+    sequenceNumber:  53
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            ''
+    sequenceNumber:  54
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17AnyExtensionFieldP
+      name:            ValueType
+    sequenceNumber:  55
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            Int
+    sequenceNumber:  56
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            _protobuf_newField
+    sequenceNumber:  57
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            String
+    sequenceNumber:  58
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            FieldType
+    sequenceNumber:  59
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            init
+    sequenceNumber:  60
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            MessageType
+    sequenceNumber:  61
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            AnyExtensionField
+    sequenceNumber:  62
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            init
+    sequenceNumber:  63
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            Message
+    sequenceNumber:  64
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            AnyExtensionField
+    sequenceNumber:  65
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            ValueType
+    sequenceNumber:  66
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf14ExtensionFieldP
+      name:            init
+    sequenceNumber:  67
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            messageType
+    sequenceNumber:  68
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            MessageType
+    sequenceNumber:  69
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         13SwiftProtobuf17AnyExtensionFieldP
+      name:            ''
+    sequenceNumber:  70
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            Decoder
+    sequenceNumber:  71
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            _protobuf_newField
+    sequenceNumber:  72
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            ValueType
+    sequenceNumber:  73
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            String
+    sequenceNumber:  74
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            Decoder
+    sequenceNumber:  75
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            fieldName
+    sequenceNumber:  76
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            deinit
+    sequenceNumber:  77
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17AnyExtensionFieldP
+      name:            init
+    sequenceNumber:  78
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf19AnyMessageExtensionP
+      name:            fieldNumber
+    sequenceNumber:  79
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            fieldNumber
+    sequenceNumber:  80
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            ValueType
+    sequenceNumber:  81
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            Message
+    sequenceNumber:  82
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf16MessageExtensionC
+      name:            FieldType
+    sequenceNumber:  83
+    defsIDependUpon: [  ]
+    isProvides:      false
+...

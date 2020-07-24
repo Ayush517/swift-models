@@ -1,0 +1,1930 @@
+# Fine-grained v0
+---
+allNodes:
+  - key:
+      kind:            sourceFileProvide
+      aspect:          interface
+      context:         ''
+      name:            'Support/CMakeFiles/ModelSupport.dir/Stderr.swift.o.swiftdeps'
+    fingerprint:     e8375d3b21b153a51a9bc209b44c1f97
+    sequenceNumber:  0
+    defsIDependUpon: [ 213, 210, 209, 205, 204, 198, 197, 191, 190, 189, 
+                       188, 187, 186, 185, 183, 180, 179, 177, 174, 172, 
+                       171, 170, 169, 168, 167, 166, 165, 163, 162, 161, 
+                       154, 143, 110, 106, 105, 104, 102, 100, 97, 96, 
+                       93, 92, 91, 79, 78, 75, 74, 72, 70, 160, 63, 157, 
+                       60, 155, 58, 56, 152, 55, 54, 53, 52, 51, 146, 49, 
+                       145, 48, 47, 142, 45, 141, 44, 140, 43, 42, 41, 
+                       137, 237, 40, 136, 39, 38, 133, 233, 36, 132, 232, 
+                       35, 231, 34, 230, 33, 129, 32, 128, 31, 30, 126, 
+                       226, 29, 28, 124, 224, 27, 123, 223, 26, 121, 221, 
+                       24, 120, 220, 23, 69, 119, 219, 22, 118, 21, 67, 
+                       117, 217, 20, 115, 215, 18, 114, 214, 17, 159, 62, 
+                       212, 15, 116, 216, 19, 25, 134, 234, 37, 158, 61, 
+                       111, 14 ]
+    isProvides:      true
+  - key:
+      kind:            sourceFileProvide
+      aspect:          implementation
+      context:         ''
+      name:            'Support/CMakeFiles/ModelSupport.dir/Stderr.swift.o.swiftdeps'
+    fingerprint:     e8375d3b21b153a51a9bc209b44c1f97
+    sequenceNumber:  1
+    defsIDependUpon: [ 229, 225, 218, 211, 208, 207, 203, 202, 201, 199, 
+                       194, 193, 176, 175, 164, 153, 151, 150, 149, 50, 
+                       147, 236, 139, 235, 138, 222, 125, 122, 206, 109, 
+                       108, 107, 200, 103, 148, 101, 196, 99, 195, 98, 
+                       192, 95, 94, 90, 86, 228, 131, 181, 84, 227, 130, 
+                       83, 178, 81, 77, 173, 76, 144, 73, 89, 16, 113, 
+                       66, 135, 88, 112, 65, 184, 87, 64, 82, 156, 59, 
+                       68, 46, 127, 80, 57, 71, 182, 85 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            stderr
+    sequenceNumber:  2
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            stderr
+    sequenceNumber:  3
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            printError
+    sequenceNumber:  4
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            printError
+    sequenceNumber:  5
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So12NSFileHandleC
+      name:            ''
+    sequenceNumber:  6
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         So12NSFileHandleC
+      name:            ''
+    sequenceNumber:  7
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         So12NSFileHandleC
+      name:            ''
+    sequenceNumber:  8
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         So12NSFileHandleC
+      name:            ''
+    sequenceNumber:  9
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So12NSFileHandleC
+      name:            write
+    sequenceNumber:  10
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            member
+      aspect:          implementation
+      context:         So12NSFileHandleC
+      name:            write
+    sequenceNumber:  11
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            write
+    sequenceNumber:  12
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            write
+    sequenceNumber:  13
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            TextOutputStream
+    sequenceNumber:  14
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            String
+    sequenceNumber:  15
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            print
+    sequenceNumber:  16
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            FileHandle
+    sequenceNumber:  17
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Swift.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  18
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/Support/STBImage/include/module.modulemap'
+    sequenceNumber:  19
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Foundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  20
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Darwin.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  21
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes'
+    sequenceNumber:  22
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreFoundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  23
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes'
+    sequenceNumber:  24
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes'
+    sequenceNumber:  25
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Dispatch.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  26
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/ObjectiveC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  27
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreGraphics.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  28
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    sequenceNumber:  29
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/IOKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  30
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    sequenceNumber:  31
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes'
+    sequenceNumber:  32
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    sequenceNumber:  33
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes'
+    sequenceNumber:  34
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    sequenceNumber:  35
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/XPC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  36
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/TensorFlow.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  37
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/PythonKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  38
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  39
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Tensor.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  40
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/Support/STBImage/include/stb_image_write.h'
+    sequenceNumber:  41
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/Support/STBImage/include/stb_image.h'
+    sequenceNumber:  42
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/SwiftProtobuf.swiftmodule'
+    sequenceNumber:  43
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            ''
+    sequenceNumber:  44
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            ''
+    sequenceNumber:  45
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s10MirrorPathP
+      name:            ''
+    sequenceNumber:  46
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s20TextOutputStreamableP
+      name:            ''
+    sequenceNumber:  47
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  48
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            ''
+    sequenceNumber:  49
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s21_ObjectiveCBridgeableP
+      name:            ''
+    sequenceNumber:  50
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            ''
+    sequenceNumber:  51
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         ST
+      name:            ''
+    sequenceNumber:  52
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            ''
+    sequenceNumber:  53
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10Foundation27_KeyValueCodingAndObservingP
+      name:            ''
+    sequenceNumber:  54
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sl
+      name:            ''
+    sequenceNumber:  55
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP
+      name:            ''
+    sequenceNumber:  56
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SE
+      name:            ''
+    sequenceNumber:  57
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            ''
+    sequenceNumber:  58
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sy
+      name:            ''
+    sequenceNumber:  59
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            ''
+    sequenceNumber:  60
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So14NSSecureCodingP
+      name:            ''
+    sequenceNumber:  61
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  62
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SL
+      name:            ''
+    sequenceNumber:  63
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s34_ExpressibleByBuiltinStringLiteralP
+      name:            ''
+    sequenceNumber:  64
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         9PythonKit0A11ConvertibleP
+      name:            ''
+    sequenceNumber:  65
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s35_HasCustomAnyHashableRepresentationP
+      name:            ''
+    sequenceNumber:  66
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            ''
+    sequenceNumber:  67
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So16NSMutableCopyingP
+      name:            ''
+    sequenceNumber:  68
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10Foundation37_KeyValueCodingAndObservingPublishingP
+      name:            ''
+    sequenceNumber:  69
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s33ExpressibleByUnicodeScalarLiteralP
+      name:            ''
+    sequenceNumber:  70
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow01_aB18DataTypeCompatibleP
+      name:            ''
+    sequenceNumber:  71
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s25LosslessStringConvertibleP
+      name:            ''
+    sequenceNumber:  72
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Se
+      name:            ''
+    sequenceNumber:  73
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s41_ExpressibleByBuiltinUnicodeScalarLiteralP
+      name:            ''
+    sequenceNumber:  74
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SK
+      name:            ''
+    sequenceNumber:  75
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s30_CustomPlaygroundQuickLookableP
+      name:            ''
+    sequenceNumber:  76
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So21NSItemProviderWritingP
+      name:            ''
+    sequenceNumber:  77
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s43ExpressibleByExtendedGraphemeClusterLiteralP
+      name:            ''
+    sequenceNumber:  78
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s26ExpressibleByStringLiteralP
+      name:            ''
+    sequenceNumber:  79
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So9NSCopyingP
+      name:            ''
+    sequenceNumber:  80
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         9PythonKit015ConvertibleFromA0P
+      name:            ''
+    sequenceNumber:  81
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So21NSItemProviderReadingP
+      name:            ''
+    sequenceNumber:  82
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SS
+      name:            ''
+    sequenceNumber:  83
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            ''
+    sequenceNumber:  84
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sm
+      name:            ''
+    sequenceNumber:  85
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s17CustomReflectableP
+      name:            ''
+    sequenceNumber:  86
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SY
+      name:            ''
+    sequenceNumber:  87
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SS10FoundationE8EncodingV
+      name:            ''
+    sequenceNumber:  88
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s19_HasContiguousBytesP
+      name:            ''
+    sequenceNumber:  89
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So8NSStringC
+      name:            ''
+    sequenceNumber:  90
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            _unlock
+    sequenceNumber:  91
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            _lock
+    sequenceNumber:  92
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            String
+    sequenceNumber:  93
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s10MirrorPathP
+      name:            data
+    sequenceNumber:  94
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20TextOutputStreamableP
+      name:            data
+    sequenceNumber:  95
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  96
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            _lock
+    sequenceNumber:  97
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s21_ObjectiveCBridgeableP
+      name:            _conditionallyBridgeFromObjectiveC
+    sequenceNumber:  98
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            data
+    sequenceNumber:  99
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         ST
+      name:            ''
+    sequenceNumber:  100
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            data
+    sequenceNumber:  101
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            ''
+    sequenceNumber:  102
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s21_ObjectiveCBridgeableP
+      name:            _ObjectiveCType
+    sequenceNumber:  103
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation27_KeyValueCodingAndObservingP
+      name:            write
+    sequenceNumber:  104
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So12NSFileHandleC
+      name:            _writeASCII
+    sequenceNumber:  105
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sl
+      name:            ''
+    sequenceNumber:  106
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s21_ObjectiveCBridgeableP
+      name:            _bridgeToObjectiveC
+    sequenceNumber:  107
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP
+      name:            data
+    sequenceNumber:  108
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SE
+      name:            data
+    sequenceNumber:  109
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            ''
+    sequenceNumber:  110
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            _writeASCII
+    sequenceNumber:  111
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sy
+      name:            data
+    sequenceNumber:  112
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s21_ObjectiveCBridgeableP
+      name:            data
+    sequenceNumber:  113
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            standardError
+    sequenceNumber:  114
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            ''
+    sequenceNumber:  115
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            standardError
+    sequenceNumber:  116
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So14NSSecureCodingP
+      name:            _lock
+    sequenceNumber:  117
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So12NSFileHandleC
+      name:            _lock
+    sequenceNumber:  118
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  119
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            write
+    sequenceNumber:  120
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SL
+      name:            ''
+    sequenceNumber:  121
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s34_ExpressibleByBuiltinStringLiteralP
+      name:            data
+    sequenceNumber:  122
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            standardError
+    sequenceNumber:  123
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            ''
+    sequenceNumber:  124
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         9PythonKit0A11ConvertibleP
+      name:            data
+    sequenceNumber:  125
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            write
+    sequenceNumber:  126
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s35_HasCustomAnyHashableRepresentationP
+      name:            data
+    sequenceNumber:  127
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            _writeASCII
+    sequenceNumber:  128
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            write
+    sequenceNumber:  129
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So16NSMutableCopyingP
+      name:            data
+    sequenceNumber:  130
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s21_ObjectiveCBridgeableP
+      name:            _unconditionallyBridgeFromObjectiveC
+    sequenceNumber:  131
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So14NSSecureCodingP
+      name:            write
+    sequenceNumber:  132
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation37_KeyValueCodingAndObservingPublishingP
+      name:            _lock
+    sequenceNumber:  133
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation27_KeyValueCodingAndObservingP
+      name:            _writeASCII
+    sequenceNumber:  134
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sl
+      name:            data
+    sequenceNumber:  135
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s33ExpressibleByUnicodeScalarLiteralP
+      name:            ''
+    sequenceNumber:  136
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So14NSSecureCodingP
+      name:            _unlock
+    sequenceNumber:  137
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10TensorFlow01_aB18DataTypeCompatibleP
+      name:            data
+    sequenceNumber:  138
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So14NSSecureCodingP
+      name:            data
+    sequenceNumber:  139
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            writeData
+    sequenceNumber:  140
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            _writeASCII
+    sequenceNumber:  141
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            _lock
+    sequenceNumber:  142
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            _unlock
+    sequenceNumber:  143
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s25LosslessStringConvertibleP
+      name:            data
+    sequenceNumber:  144
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP
+      name:            ''
+    sequenceNumber:  145
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            write
+    sequenceNumber:  146
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            utf8
+    sequenceNumber:  147
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            data
+    sequenceNumber:  148
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            utf8
+    sequenceNumber:  149
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            data
+    sequenceNumber:  150
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            data
+    sequenceNumber:  151
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation37_KeyValueCodingAndObservingPublishingP
+      name:            _unlock
+    sequenceNumber:  152
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SL
+      name:            data
+    sequenceNumber:  153
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s20TextOutputStreamableP
+      name:            ''
+    sequenceNumber:  154
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So14NSSecureCodingP
+      name:            _writeASCII
+    sequenceNumber:  155
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            data
+    sequenceNumber:  156
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            _unlock
+    sequenceNumber:  157
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            String
+    sequenceNumber:  158
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            String
+    sequenceNumber:  159
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s41_ExpressibleByBuiltinUnicodeScalarLiteralP
+      name:            ''
+    sequenceNumber:  160
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            standardError
+    sequenceNumber:  161
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            _lock
+    sequenceNumber:  162
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            _lock
+    sequenceNumber:  163
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s33ExpressibleByUnicodeScalarLiteralP
+      name:            data
+    sequenceNumber:  164
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            _unlock
+    sequenceNumber:  165
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation27_KeyValueCodingAndObservingP
+      name:            _unlock
+    sequenceNumber:  166
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            _writeASCII
+    sequenceNumber:  167
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            write
+    sequenceNumber:  168
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SK
+      name:            ''
+    sequenceNumber:  169
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            writeData
+    sequenceNumber:  170
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            _lock
+    sequenceNumber:  171
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            write
+    sequenceNumber:  172
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s30_CustomPlaygroundQuickLookableP
+      name:            data
+    sequenceNumber:  173
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation37_KeyValueCodingAndObservingPublishingP
+      name:            standardError
+    sequenceNumber:  174
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So21NSItemProviderWritingP
+      name:            data
+    sequenceNumber:  175
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s43ExpressibleByExtendedGraphemeClusterLiteralP
+      name:            data
+    sequenceNumber:  176
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s26ExpressibleByStringLiteralP
+      name:            ''
+    sequenceNumber:  177
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So9NSCopyingP
+      name:            data
+    sequenceNumber:  178
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            _unlock
+    sequenceNumber:  179
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            _writeASCII
+    sequenceNumber:  180
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         9PythonKit015ConvertibleFromA0P
+      name:            data
+    sequenceNumber:  181
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            data
+    sequenceNumber:  182
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            standardError
+    sequenceNumber:  183
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            utf8
+    sequenceNumber:  184
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            _lock
+    sequenceNumber:  185
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation37_KeyValueCodingAndObservingPublishingP
+      name:            write
+    sequenceNumber:  186
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            _unlock
+    sequenceNumber:  187
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s25LosslessStringConvertibleP
+      name:            ''
+    sequenceNumber:  188
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            _unlock
+    sequenceNumber:  189
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So14NSSecureCodingP
+      name:            standardError
+    sequenceNumber:  190
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So12NSFileHandleC
+      name:            _unlock
+    sequenceNumber:  191
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            dataUsingEncoding
+    sequenceNumber:  192
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So21NSItemProviderReadingP
+      name:            data
+    sequenceNumber:  193
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            data
+    sequenceNumber:  194
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s21_ObjectiveCBridgeableP
+      name:            _forceBridgeFromObjectiveC
+    sequenceNumber:  195
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         ST
+      name:            data
+    sequenceNumber:  196
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            _writeASCII
+    sequenceNumber:  197
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So12NSFileHandleC
+      name:            String
+    sequenceNumber:  198
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SS
+      name:            data
+    sequenceNumber:  199
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation27_KeyValueCodingAndObservingP
+      name:            data
+    sequenceNumber:  200
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SK
+      name:            data
+    sequenceNumber:  201
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            init
+    sequenceNumber:  202
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sm
+      name:            data
+    sequenceNumber:  203
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            _writeASCII
+    sequenceNumber:  204
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation27_KeyValueCodingAndObservingP
+      name:            standardError
+    sequenceNumber:  205
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s26ExpressibleByStringLiteralP
+      name:            data
+    sequenceNumber:  206
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s17CustomReflectableP
+      name:            data
+    sequenceNumber:  207
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SY
+      name:            utf8
+    sequenceNumber:  208
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            _unlock
+    sequenceNumber:  209
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            write
+    sequenceNumber:  210
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectC
+      name:            data
+    sequenceNumber:  211
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            standardError
+    sequenceNumber:  212
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            _unlock
+    sequenceNumber:  213
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            _lock
+    sequenceNumber:  214
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            _lock
+    sequenceNumber:  215
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            _writeASCII
+    sequenceNumber:  216
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            ''
+    sequenceNumber:  217
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s41_ExpressibleByBuiltinUnicodeScalarLiteralP
+      name:            data
+    sequenceNumber:  218
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            standardError
+    sequenceNumber:  219
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s43ExpressibleByExtendedGraphemeClusterLiteralP
+      name:            ''
+    sequenceNumber:  220
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            ''
+    sequenceNumber:  221
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SS10FoundationE8EncodingV
+      name:            utf8
+    sequenceNumber:  222
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            standardError
+    sequenceNumber:  223
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation37_KeyValueCodingAndObservingPublishingP
+      name:            _writeASCII
+    sequenceNumber:  224
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            data
+    sequenceNumber:  225
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            write
+    sequenceNumber:  226
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s19_HasContiguousBytesP
+      name:            data
+    sequenceNumber:  227
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSStringC
+      name:            data
+    sequenceNumber:  228
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            dataUsingEncoding
+    sequenceNumber:  229
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So12NSFileHandleC
+      name:            standardError
+    sequenceNumber:  230
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So14NSSecureCodingP
+      name:            String
+    sequenceNumber:  231
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation27_KeyValueCodingAndObservingP
+      name:            _lock
+    sequenceNumber:  232
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            write
+    sequenceNumber:  233
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            standardError
+    sequenceNumber:  234
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            data
+    sequenceNumber:  235
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10Foundation37_KeyValueCodingAndObservingPublishingP
+      name:            data
+    sequenceNumber:  236
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            _writeASCII
+    sequenceNumber:  237
+    defsIDependUpon: [  ]
+    isProvides:      false
+...

@@ -1,0 +1,992 @@
+# Fine-grained v0
+---
+allNodes:
+  - key:
+      kind:            sourceFileProvide
+      aspect:          interface
+      context:         ''
+      name:            'Sources/protoc-gen-swift/CMakeFiles/protoc-gen-swift.dir/MessageStorageClassGenerator.swift.o.swiftdeps'
+    fingerprint:     76328470a6c3168ca555a7ee092a25fd
+    sequenceNumber:  0
+    defsIDependUpon: [ 120, 117, 116, 115, 114, 112, 89, 87, 83, 77, 76, 
+                       111, 64, 63, 62, 59, 105, 58, 103, 56, 55, 54, 53, 
+                       99, 52, 98, 51, 50, 94, 47, 46, 91, 44, 41, 43, 
+                       49, 108, 61, 38, 48, 60, 84, 37, 45, 57, 34 ]
+    isProvides:      true
+  - key:
+      kind:            sourceFileProvide
+      aspect:          implementation
+      context:         ''
+      name:            'Sources/protoc-gen-swift/CMakeFiles/protoc-gen-swift.dir/MessageStorageClassGenerator.swift.o.swiftdeps'
+    fingerprint:     76328470a6c3168ca555a7ee092a25fd
+    sequenceNumber:  1
+    defsIDependUpon: [ 110, 109, 107, 106, 104, 102, 101, 100, 97, 96, 
+                       95, 93, 92, 90, 88, 85, 81, 33, 80, 75, 74, 73, 
+                       119, 72, 118, 71, 70, 69, 68, 67, 40, 86, 39, 36, 
+                       113, 66, 32, 79, 42, 65, 78, 31, 82, 35, 30 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            MessageStorageClassGenerator
+    fingerprint:     920487197b7afa50ad22a6016810e642
+    sequenceNumber:  2
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            MessageStorageClassGenerator
+    fingerprint:     920487197b7afa50ad22a6016810e642
+    sequenceNumber:  3
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            AnyMessageStorageClassGenerator
+    fingerprint:     f2cbd1a0a832c5d295bc77133c84b67e
+    sequenceNumber:  4
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            AnyMessageStorageClassGenerator
+    fingerprint:     f2cbd1a0a832c5d295bc77133c84b67e
+    sequenceNumber:  5
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            ''
+    fingerprint:     920487197b7afa50ad22a6016810e642
+    sequenceNumber:  6
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         4main28MessageStorageClassGeneratorC
+      name:            ''
+    fingerprint:     920487197b7afa50ad22a6016810e642
+    sequenceNumber:  7
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            ''
+    fingerprint:     f2cbd1a0a832c5d295bc77133c84b67e
+    sequenceNumber:  8
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            ''
+    fingerprint:     f2cbd1a0a832c5d295bc77133c84b67e
+    sequenceNumber:  9
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            ''
+    fingerprint:     920487197b7afa50ad22a6016810e642
+    sequenceNumber:  10
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         4main28MessageStorageClassGeneratorC
+      name:            ''
+    fingerprint:     920487197b7afa50ad22a6016810e642
+    sequenceNumber:  11
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            ''
+    fingerprint:     f2cbd1a0a832c5d295bc77133c84b67e
+    sequenceNumber:  12
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            ''
+    fingerprint:     f2cbd1a0a832c5d295bc77133c84b67e
+    sequenceNumber:  13
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            generateClone
+    sequenceNumber:  14
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            generateClone
+    sequenceNumber:  15
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            generateStoredProperties
+    sequenceNumber:  16
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            generateStoredProperties
+    sequenceNumber:  17
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            fields
+    sequenceNumber:  18
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            fields
+    sequenceNumber:  19
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            generateUniqueStorage
+    sequenceNumber:  20
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            generateUniqueStorage
+    sequenceNumber:  21
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            generateTypeDeclaration
+    sequenceNumber:  22
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            generateTypeDeclaration
+    sequenceNumber:  23
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            storageProvidesEqualTo
+    sequenceNumber:  24
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            storageProvidesEqualTo
+    sequenceNumber:  25
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            storageVisibility
+    sequenceNumber:  26
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            storageVisibility
+    sequenceNumber:  27
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            generatePreTraverse
+    sequenceNumber:  28
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            generatePreTraverse
+    sequenceNumber:  29
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            UnicodeScalarType
+    sequenceNumber:  30
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            generateClone
+    sequenceNumber:  31
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            BooleanLiteralType
+    sequenceNumber:  32
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            generateStoredProperties
+    sequenceNumber:  33
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            AssignmentPrecedence
+    sequenceNumber:  34
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            fields
+    sequenceNumber:  35
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            StringLiteralType
+    sequenceNumber:  36
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            String
+    sequenceNumber:  37
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            FieldGenerator
+    sequenceNumber:  38
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            IntegerLiteralType
+    sequenceNumber:  39
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            storageVisibility
+    sequenceNumber:  40
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Bool
+    sequenceNumber:  41
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            FloatLiteralType
+    sequenceNumber:  42
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            CodePrinter
+    sequenceNumber:  43
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Swift.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  44
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  45
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Foundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  46
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Darwin.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  47
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes'
+    sequenceNumber:  48
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreFoundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  49
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes'
+    sequenceNumber:  50
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes'
+    sequenceNumber:  51
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Dispatch.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  52
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/ObjectiveC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  53
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreGraphics.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  54
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    sequenceNumber:  55
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/IOKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  56
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    sequenceNumber:  57
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes'
+    sequenceNumber:  58
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    sequenceNumber:  59
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes'
+    sequenceNumber:  60
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    sequenceNumber:  61
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/XPC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  62
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift-protobuf-prefix/src/swift-protobuf-build/swift/SwiftProtobufPluginLibrary.swiftmodule'
+    sequenceNumber:  63
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift-protobuf-prefix/src/swift-protobuf-build/swift/SwiftProtobuf.swiftmodule'
+    sequenceNumber:  64
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         ST
+      name:            ''
+    sequenceNumber:  65
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinBooleanLiteralP
+      name:            ''
+    sequenceNumber:  66
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         26SwiftProtobufPluginLibrary11CodePrinterV
+      name:            ''
+    sequenceNumber:  67
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            ''
+    sequenceNumber:  68
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            ''
+    sequenceNumber:  69
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         4main14FieldGeneratorP
+      name:            ''
+    sequenceNumber:  70
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s26DefaultStringInterpolationV
+      name:            ''
+    sequenceNumber:  71
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            ''
+    sequenceNumber:  72
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s27StringInterpolationProtocolP
+      name:            ''
+    sequenceNumber:  73
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            ''
+    sequenceNumber:  74
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s34_ExpressibleByBuiltinStringLiteralP
+      name:            ''
+    sequenceNumber:  75
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            FieldGenerator
+    sequenceNumber:  76
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            CodePrinter
+    sequenceNumber:  77
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         ST
+      name:            Iterator
+    sequenceNumber:  78
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            fields
+    sequenceNumber:  79
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinBooleanLiteralP
+      name:            init
+    sequenceNumber:  80
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         26SwiftProtobufPluginLibrary11CodePrinterV
+      name:            indent
+    sequenceNumber:  81
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            StringInterpolation
+    sequenceNumber:  82
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            Bool
+    sequenceNumber:  83
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            init
+    sequenceNumber:  84
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            appendInterpolation
+    sequenceNumber:  85
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main14FieldGeneratorP
+      name:            generateStorageClassClone
+    sequenceNumber:  86
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            Bool
+    sequenceNumber:  87
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s26DefaultStringInterpolationV
+      name:            appendLiteral
+    sequenceNumber:  88
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            generateTypeDeclaration
+    sequenceNumber:  89
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            init
+    sequenceNumber:  90
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            generatePreTraverse
+    sequenceNumber:  91
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         26SwiftProtobufPluginLibrary11CodePrinterV
+      name:            outdent
+    sequenceNumber:  92
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s26DefaultStringInterpolationV
+      name:            appendInterpolation
+    sequenceNumber:  93
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            init
+    sequenceNumber:  94
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         ST
+      name:            Element
+    sequenceNumber:  95
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s27StringInterpolationProtocolP
+      name:            appendInterpolation
+    sequenceNumber:  96
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main14FieldGeneratorP
+      name:            generateStorage
+    sequenceNumber:  97
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            String
+    sequenceNumber:  98
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            generatePreTraverse
+    sequenceNumber:  99
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            appendLiteral
+    sequenceNumber:  100
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            appendInterpolation
+    sequenceNumber:  101
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            generateStoredProperties
+    sequenceNumber:  102
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            generateUniqueStorage
+    sequenceNumber:  103
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         ST
+      name:            makeIterator
+    sequenceNumber:  104
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            storageVisibility
+    sequenceNumber:  105
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            generateClone
+    sequenceNumber:  106
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            init
+    sequenceNumber:  107
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            deinit
+    sequenceNumber:  108
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         26SwiftProtobufPluginLibrary11CodePrinterV
+      name:            print
+    sequenceNumber:  109
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s34_ExpressibleByBuiltinStringLiteralP
+      name:            init
+    sequenceNumber:  110
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            storageProvidesEqualTo
+    sequenceNumber:  111
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            deinit
+    sequenceNumber:  112
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            appendLiteral
+    sequenceNumber:  113
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            generateTypeDeclaration
+    sequenceNumber:  114
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            CodePrinter
+    sequenceNumber:  115
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            storageProvidesEqualTo
+    sequenceNumber:  116
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main31AnyMessageStorageClassGeneratorC
+      name:            String
+    sequenceNumber:  117
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s27StringInterpolationProtocolP
+      name:            init
+    sequenceNumber:  118
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s27StringInterpolationProtocolP
+      name:            appendLiteral
+    sequenceNumber:  119
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         4main28MessageStorageClassGeneratorC
+      name:            storageVisibility
+    sequenceNumber:  120
+    defsIDependUpon: [  ]
+    isProvides:      false
+...

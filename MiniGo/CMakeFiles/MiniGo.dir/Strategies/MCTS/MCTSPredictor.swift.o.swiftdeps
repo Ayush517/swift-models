@@ -1,0 +1,730 @@
+# Fine-grained v0
+---
+allNodes:
+  - key:
+      kind:            sourceFileProvide
+      aspect:          interface
+      context:         ''
+      name:            'MiniGo/CMakeFiles/MiniGo.dir/Strategies/MCTS/MCTSPredictor.swift.o.swiftdeps'
+    fingerprint:     c33617f850beb23a5cacaef4109fcbb0
+    sequenceNumber:  0
+    defsIDependUpon: [ 67, 64, 54, 53, 52, 51, 50, 49, 48, 47, 46, 44, 
+                       43, 42, 41, 87, 40, 86, 39, 38, 84, 37, 36, 82, 
+                       35, 81, 34, 79, 32, 31, 77, 30, 76, 29, 74, 27, 
+                       73, 26, 25, 71, 24, 23, 80, 33, 45, 22 ]
+    isProvides:      true
+  - key:
+      kind:            sourceFileProvide
+      aspect:          implementation
+      context:         ''
+      name:            'MiniGo/CMakeFiles/MiniGo.dir/Strategies/MCTS/MCTSPredictor.swift.o.swiftdeps'
+    fingerprint:     c33617f850beb23a5cacaef4109fcbb0
+    sequenceNumber:  1
+    defsIDependUpon: [ 85, 28, 75, 72, 70, 69, 21, 68, 63, 62, 61, 83, 
+                       60, 59, 58, 57, 56, 78, 55, 19, 66, 20, 65, 18 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            MCTSPrediction
+    fingerprint:     375d7511417e27094585b8bf6b4e8e3a
+    sequenceNumber:  2
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            MCTSPrediction
+    fingerprint:     375d7511417e27094585b8bf6b4e8e3a
+    sequenceNumber:  3
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            MCTSPredictor
+    fingerprint:     5eb39ea95a66bedb4f40b463dabbf6f1
+    sequenceNumber:  4
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            MCTSPredictor
+    fingerprint:     5eb39ea95a66bedb4f40b463dabbf6f1
+    sequenceNumber:  5
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            ''
+    fingerprint:     375d7511417e27094585b8bf6b4e8e3a
+    sequenceNumber:  6
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         6MiniGo14MCTSPredictionV
+      name:            ''
+    fingerprint:     375d7511417e27094585b8bf6b4e8e3a
+    sequenceNumber:  7
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            ''
+    fingerprint:     d90ba8b60e2ed6b53e02114308b96fb4
+    sequenceNumber:  8
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            ''
+    fingerprint:     d90ba8b60e2ed6b53e02114308b96fb4
+    sequenceNumber:  9
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            ''
+    fingerprint:     5eb39ea95a66bedb4f40b463dabbf6f1
+    sequenceNumber:  10
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         6MiniGo13MCTSPredictorP
+      name:            ''
+    fingerprint:     5eb39ea95a66bedb4f40b463dabbf6f1
+    sequenceNumber:  11
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            ''
+    fingerprint:     375d7511417e27094585b8bf6b4e8e3a
+    sequenceNumber:  12
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         6MiniGo14MCTSPredictionV
+      name:            ''
+    fingerprint:     375d7511417e27094585b8bf6b4e8e3a
+    sequenceNumber:  13
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            ''
+    fingerprint:     d90ba8b60e2ed6b53e02114308b96fb4
+    sequenceNumber:  14
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            ''
+    fingerprint:     d90ba8b60e2ed6b53e02114308b96fb4
+    sequenceNumber:  15
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            ''
+    fingerprint:     5eb39ea95a66bedb4f40b463dabbf6f1
+    sequenceNumber:  16
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         6MiniGo13MCTSPredictorP
+      name:            ''
+    fingerprint:     5eb39ea95a66bedb4f40b463dabbf6f1
+    sequenceNumber:  17
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '>='
+    sequenceNumber:  18
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '&&'
+    sequenceNumber:  19
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            precondition
+    sequenceNumber:  20
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            FloatLiteralType
+    sequenceNumber:  21
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ShapedArray
+    sequenceNumber:  22
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            BoardState
+    sequenceNumber:  23
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            AnyObject
+    sequenceNumber:  24
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            AssignmentPrecedence
+    sequenceNumber:  25
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Float
+    sequenceNumber:  26
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Distribution
+    sequenceNumber:  27
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '<='
+    sequenceNumber:  28
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Swift.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  29
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/Support/STBImage/include/module.modulemap'
+    sequenceNumber:  30
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/TensorFlow.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  31
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes'
+    sequenceNumber:  32
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Darwin.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  33
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Foundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  34
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreFoundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  35
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes'
+    sequenceNumber:  36
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes'
+    sequenceNumber:  37
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Dispatch.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  38
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/ObjectiveC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  39
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreGraphics.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  40
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    sequenceNumber:  41
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/IOKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  42
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    sequenceNumber:  43
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes'
+    sequenceNumber:  44
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    sequenceNumber:  45
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes'
+    sequenceNumber:  46
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    sequenceNumber:  47
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/XPC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  48
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/PythonKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  49
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  50
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Tensor.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  51
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/Checkpoints.swiftmodule'
+    sequenceNumber:  52
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/ModelSupport.swiftmodule'
+    sequenceNumber:  53
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/SwiftProtobuf.swiftmodule'
+    sequenceNumber:  54
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SL
+      name:            ''
+    sequenceNumber:  55
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s27ExpressibleByIntegerLiteralP
+      name:            ''
+    sequenceNumber:  56
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sx
+      name:            ''
+    sequenceNumber:  57
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s13SignedNumericP
+      name:            ''
+    sequenceNumber:  58
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s33_ExpressibleByBuiltinFloatLiteralP
+      name:            ''
+    sequenceNumber:  59
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sj
+      name:            ''
+    sequenceNumber:  60
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  61
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  62
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s18AdditiveArithmeticP
+      name:            ''
+    sequenceNumber:  63
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            pass
+    sequenceNumber:  64
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SL
+      name:            ''
+    sequenceNumber:  65
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s27ExpressibleByIntegerLiteralP
+      name:            ''
+    sequenceNumber:  66
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            Float
+    sequenceNumber:  67
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sx
+      name:            ''
+    sequenceNumber:  68
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s13SignedNumericP
+      name:            ''
+    sequenceNumber:  69
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s33_ExpressibleByBuiltinFloatLiteralP
+      name:            init
+    sequenceNumber:  70
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            init
+    sequenceNumber:  71
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sj
+      name:            ''
+    sequenceNumber:  72
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            prediction
+    sequenceNumber:  73
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            MCTSPrediction
+    sequenceNumber:  74
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  75
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            Distribution
+    sequenceNumber:  76
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            init
+    sequenceNumber:  77
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  78
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            BoardState
+    sequenceNumber:  79
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            ShapedArray
+    sequenceNumber:  80
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            rewardForNextPlayer
+    sequenceNumber:  81
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            Float
+    sequenceNumber:  82
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            precondition
+    sequenceNumber:  83
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            distribution
+    sequenceNumber:  84
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s18AdditiveArithmeticP
+      name:            ''
+    sequenceNumber:  85
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            ShapedArray
+    sequenceNumber:  86
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            positions
+    sequenceNumber:  87
+    defsIDependUpon: [  ]
+    isProvides:      false
+...

@@ -1,0 +1,552 @@
+# Fine-grained v0
+---
+allNodes:
+  - key:
+      kind:            sourceFileProvide
+      aspect:          interface
+      context:         ''
+      name:            'Sources/SwiftProtobuf/CMakeFiles/SwiftProtobuf.dir/JSONDecodingError.swift.o.swiftdeps'
+    fingerprint:     8c42a5219f8271c15fbfd2490fedd5a4
+    sequenceNumber:  0
+    defsIDependUpon: [ 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 
+                       54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 
+                       42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 
+                       30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 
+                       18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8 ]
+    isProvides:      true
+  - key:
+      kind:            sourceFileProvide
+      aspect:          implementation
+      context:         ''
+      name:            'Sources/SwiftProtobuf/CMakeFiles/SwiftProtobuf.dir/JSONDecodingError.swift.o.swiftdeps'
+    fingerprint:     8c42a5219f8271c15fbfd2490fedd5a4
+    sequenceNumber:  1
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            JSONDecodingError
+    fingerprint:     8e2fec9b826b1dcf057ae808a6a34f50
+    sequenceNumber:  2
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            JSONDecodingError
+    fingerprint:     8e2fec9b826b1dcf057ae808a6a34f50
+    sequenceNumber:  3
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            ''
+    fingerprint:     8e2fec9b826b1dcf057ae808a6a34f50
+    sequenceNumber:  4
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            ''
+    fingerprint:     8e2fec9b826b1dcf057ae808a6a34f50
+    sequenceNumber:  5
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            ''
+    fingerprint:     8e2fec9b826b1dcf057ae808a6a34f50
+    sequenceNumber:  6
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            ''
+    fingerprint:     8e2fec9b826b1dcf057ae808a6a34f50
+    sequenceNumber:  7
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            String
+    sequenceNumber:  8
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Error
+    sequenceNumber:  9
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Swift.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  10
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  11
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Foundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  12
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Darwin.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  13
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes'
+    sequenceNumber:  14
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreFoundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  15
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes'
+    sequenceNumber:  16
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes'
+    sequenceNumber:  17
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Dispatch.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  18
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/ObjectiveC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  19
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreGraphics.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  20
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    sequenceNumber:  21
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/IOKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  22
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    sequenceNumber:  23
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes'
+    sequenceNumber:  24
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    sequenceNumber:  25
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes'
+    sequenceNumber:  26
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    sequenceNumber:  27
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/XPC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  28
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s5ErrorP
+      name:            ''
+    sequenceNumber:  29
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            malformedTimestamp
+    sequenceNumber:  30
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s5ErrorP
+      name:            ''
+    sequenceNumber:  31
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            unrecognizedEnumValue
+    sequenceNumber:  32
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            malformedFieldMask
+    sequenceNumber:  33
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            leadingZero
+    sequenceNumber:  34
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            failure
+    sequenceNumber:  35
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            _domain
+    sequenceNumber:  36
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            malformedMap
+    sequenceNumber:  37
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            userInfo
+    sequenceNumber:  38
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s5ErrorP
+      name:            _getEmbeddedNSError
+    sequenceNumber:  39
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            _userInfo
+    sequenceNumber:  40
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s5ErrorP
+      name:            _domain
+    sequenceNumber:  41
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s5ErrorP
+      name:            userInfo
+    sequenceNumber:  42
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            invalidUTF8
+    sequenceNumber:  43
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            _getEmbeddedNSError
+    sequenceNumber:  44
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            String
+    sequenceNumber:  45
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            malformedBool
+    sequenceNumber:  46
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            numberRange
+    sequenceNumber:  47
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s5ErrorP
+      name:            _userInfo
+    sequenceNumber:  48
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            malformedDuration
+    sequenceNumber:  49
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            malformedNumber
+    sequenceNumber:  50
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            conflictingOneOf
+    sequenceNumber:  51
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            domain
+    sequenceNumber:  52
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s5ErrorP
+      name:            domain
+    sequenceNumber:  53
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            malformedString
+    sequenceNumber:  54
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            _code
+    sequenceNumber:  55
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            truncated
+    sequenceNumber:  56
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            schemaMismatch
+    sequenceNumber:  57
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            illegalNull
+    sequenceNumber:  58
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            code
+    sequenceNumber:  59
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            unknownField
+    sequenceNumber:  60
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            messageDepthLimit
+    sequenceNumber:  61
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            missingFieldNames
+    sequenceNumber:  62
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            trailingGarbage
+    sequenceNumber:  63
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         13SwiftProtobuf17JSONDecodingErrorO
+      name:            unquotedMapKey
+    sequenceNumber:  64
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s5ErrorP
+      name:            _code
+    sequenceNumber:  65
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s5ErrorP
+      name:            code
+    sequenceNumber:  66
+    defsIDependUpon: [  ]
+    isProvides:      false
+...

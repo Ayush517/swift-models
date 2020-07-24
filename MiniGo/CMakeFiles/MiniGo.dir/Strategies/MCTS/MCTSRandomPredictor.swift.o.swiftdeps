@@ -1,0 +1,1912 @@
+# Fine-grained v0
+---
+allNodes:
+  - key:
+      kind:            sourceFileProvide
+      aspect:          interface
+      context:         ''
+      name:            'MiniGo/CMakeFiles/MiniGo.dir/Strategies/MCTS/MCTSRandomPredictor.swift.o.swiftdeps'
+    fingerprint:     703812f1acc02e68bbd9844e3b960f5f
+    sequenceNumber:  0
+    defsIDependUpon: [ 197, 163, 114, 113, 52, 51, 50, 49, 48, 47, 46, 
+                       45, 44, 43, 230, 42, 39, 38, 35, 222, 34, 221, 33, 
+                       32, 31, 30, 27, 21, 28, 40, 17, 37, 14, 76, 29, 
+                       41, 159, 18, 24, 36, 13 ]
+    isProvides:      true
+  - key:
+      kind:            sourceFileProvide
+      aspect:          implementation
+      context:         ''
+      name:            'MiniGo/CMakeFiles/MiniGo.dir/Strategies/MCTS/MCTSRandomPredictor.swift.o.swiftdeps'
+    fingerprint:     703812f1acc02e68bbd9844e3b960f5f
+    sequenceNumber:  1
+    defsIDependUpon: [ 234, 233, 232, 231, 229, 228, 227, 226, 225, 224, 
+                       218, 215, 214, 211, 210, 208, 207, 206, 205, 204, 
+                       203, 202, 201, 200, 199, 198, 196, 195, 194, 193, 
+                       192, 191, 190, 189, 188, 187, 186, 185, 184, 183, 
+                       182, 181, 180, 179, 178, 177, 176, 175, 174, 173, 
+                       172, 171, 170, 169, 168, 167, 166, 165, 164, 162, 
+                       161, 160, 158, 157, 156, 155, 154, 153, 152, 151, 
+                       150, 149, 148, 147, 146, 145, 144, 143, 142, 141, 
+                       140, 139, 138, 137, 136, 135, 134, 133, 132, 131, 
+                       130, 129, 128, 127, 126, 125, 124, 121, 118, 115, 
+                       111, 110, 108, 107, 106, 105, 104, 103, 102, 101, 
+                       100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 
+                       88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 
+                       75, 74, 71, 68, 64, 213, 16, 63, 60, 109, 209, 12, 
+                       59, 57, 56, 55, 54, 72, 122, 25, 69, 119, 219, 22, 
+                       65, 66, 116, 216, 19, 112, 212, 15, 62, 53, 67, 
+                       117, 217, 20, 73, 123, 223, 26, 61, 70, 120, 220, 
+                       23, 58 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            MCTSRandomPredictor
+    fingerprint:     8a0515d6b002f05e73a14e8832501d66
+    sequenceNumber:  2
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            MCTSRandomPredictor
+    fingerprint:     8a0515d6b002f05e73a14e8832501d66
+    sequenceNumber:  3
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            ''
+    fingerprint:     8a0515d6b002f05e73a14e8832501d66
+    sequenceNumber:  4
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            ''
+    fingerprint:     8a0515d6b002f05e73a14e8832501d66
+    sequenceNumber:  5
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            ''
+    fingerprint:     8a0515d6b002f05e73a14e8832501d66
+    sequenceNumber:  6
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            ''
+    fingerprint:     8a0515d6b002f05e73a14e8832501d66
+    sequenceNumber:  7
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            prediction
+    sequenceNumber:  8
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            prediction
+    sequenceNumber:  9
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            boardSize
+    sequenceNumber:  10
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            boardSize
+    sequenceNumber:  11
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            IntegerLiteralType
+    sequenceNumber:  12
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Float
+    sequenceNumber:  13
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Int
+    sequenceNumber:  14
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Array
+    sequenceNumber:  15
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '-'
+    sequenceNumber:  16
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            MCTSPrediction
+    sequenceNumber:  17
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            MCTSPredictor
+    sequenceNumber:  18
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            FloatLiteralType
+    sequenceNumber:  19
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '+'
+    sequenceNumber:  20
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            BoardState
+    sequenceNumber:  21
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '/'
+    sequenceNumber:  22
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '..<'
+    sequenceNumber:  23
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            AssignmentPrecedence
+    sequenceNumber:  24
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            boardSize
+    sequenceNumber:  25
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ShapedArray
+    sequenceNumber:  26
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Swift.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  27
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/Support/STBImage/include/module.modulemap'
+    sequenceNumber:  28
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/TensorFlow.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  29
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes'
+    sequenceNumber:  30
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Darwin.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  31
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Foundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  32
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreFoundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  33
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes'
+    sequenceNumber:  34
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes'
+    sequenceNumber:  35
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Dispatch.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  36
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/ObjectiveC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  37
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreGraphics.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  38
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    sequenceNumber:  39
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/IOKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  40
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    sequenceNumber:  41
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes'
+    sequenceNumber:  42
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    sequenceNumber:  43
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes'
+    sequenceNumber:  44
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    sequenceNumber:  45
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/XPC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  46
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/PythonKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  47
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  48
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Tensor.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  49
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/Checkpoints.swiftmodule'
+    sequenceNumber:  50
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/ModelSupport.swiftmodule'
+    sequenceNumber:  51
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/SwiftProtobuf.swiftmodule'
+    sequenceNumber:  52
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            ''
+    sequenceNumber:  53
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SK
+      name:            ''
+    sequenceNumber:  54
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  55
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow13XLAScalarTypeP
+      name:            ''
+    sequenceNumber:  56
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s25ExpressibleByFloatLiteralP
+      name:            ''
+    sequenceNumber:  57
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         9PythonKit21NumpyScalarCompatibleP
+      name:            ''
+    sequenceNumber:  58
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s14DifferentiableP
+      name:            ''
+    sequenceNumber:  59
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s35_HasCustomAnyHashableRepresentationP
+      name:            ''
+    sequenceNumber:  60
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            ''
+    sequenceNumber:  61
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s18AdditiveArithmeticP
+      name:            ''
+    sequenceNumber:  62
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SM
+      name:            ''
+    sequenceNumber:  63
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            ''
+    sequenceNumber:  64
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sf
+      name:            ''
+    sequenceNumber:  65
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s27ExpressibleByIntegerLiteralP
+      name:            ''
+    sequenceNumber:  66
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow01_aB18DataTypeCompatibleP
+      name:            ''
+    sequenceNumber:  67
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         9PythonKit0A11ConvertibleP
+      name:            ''
+    sequenceNumber:  68
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            ''
+    sequenceNumber:  69
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow0aB6ScalarP
+      name:            ''
+    sequenceNumber:  70
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s17CustomReflectableP
+      name:            ''
+    sequenceNumber:  71
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SE
+      name:            ''
+    sequenceNumber:  72
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         9PythonKit015ConvertibleFromA0P
+      name:            ''
+    sequenceNumber:  73
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s13SignedNumericP
+      name:            ''
+    sequenceNumber:  74
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s25LosslessStringConvertibleP
+      name:            ''
+    sequenceNumber:  75
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            ''
+    sequenceNumber:  76
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            ''
+    sequenceNumber:  77
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow11ShapedArrayV
+      name:            ''
+    sequenceNumber:  78
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SF
+      name:            ''
+    sequenceNumber:  79
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s34CustomPlaygroundDisplayConvertibleP
+      name:            ''
+    sequenceNumber:  80
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sx
+      name:            ''
+    sequenceNumber:  81
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SB
+      name:            ''
+    sequenceNumber:  82
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s10SIMDScalarP
+      name:            ''
+    sequenceNumber:  83
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SZ
+      name:            ''
+    sequenceNumber:  84
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s19ElementaryFunctionsP
+      name:            ''
+    sequenceNumber:  85
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sk
+      name:            ''
+    sequenceNumber:  86
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sz
+      name:            ''
+    sequenceNumber:  87
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  88
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s20TextOutputStreamableP
+      name:            ''
+    sequenceNumber:  89
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            ''
+    sequenceNumber:  90
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s10MirrorPathP
+      name:            ''
+    sequenceNumber:  91
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s30_CustomPlaygroundQuickLookableP
+      name:            ''
+    sequenceNumber:  92
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s14VectorProtocolP
+      name:            ''
+    sequenceNumber:  93
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Se
+      name:            ''
+    sequenceNumber:  94
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SL
+      name:            ''
+    sequenceNumber:  95
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sl
+      name:            ''
+    sequenceNumber:  96
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow0aB13FloatingPointP
+      name:            ''
+    sequenceNumber:  97
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s33_ExpressibleByBuiltinFloatLiteralP
+      name:            ''
+    sequenceNumber:  98
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sj
+      name:            ''
+    sequenceNumber:  99
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow20_ShapedArrayProtocolP
+      name:            ''
+    sequenceNumber:  100
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s17FixedWidthIntegerP
+      name:            ''
+    sequenceNumber:  101
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s15_CVarArgAlignedP
+      name:            ''
+    sequenceNumber:  102
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s21_ObjectiveCBridgeableP
+      name:            ''
+    sequenceNumber:  103
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         ST
+      name:            ''
+    sequenceNumber:  104
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow0A15RangeExpressionP
+      name:            ''
+    sequenceNumber:  105
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Si
+      name:            ''
+    sequenceNumber:  106
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s25ExpressibleByArrayLiteralP
+      name:            ''
+    sequenceNumber:  107
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            ''
+    sequenceNumber:  108
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s22_CVarArgPassedAsDoubleP
+      name:            ''
+    sequenceNumber:  109
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         9PythonKit25ConvertibleFromNumpyArrayP
+      name:            ''
+    sequenceNumber:  110
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s23EuclideanDifferentiableP
+      name:            ''
+    sequenceNumber:  111
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            init
+    sequenceNumber:  112
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            MCTSPrediction
+    sequenceNumber:  113
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            prediction
+    sequenceNumber:  114
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SK
+      name:            init
+    sequenceNumber:  115
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            random
+    sequenceNumber:  116
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10TensorFlow13XLAScalarTypeP
+      name:            init
+    sequenceNumber:  117
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s25ExpressibleByFloatLiteralP
+      name:            init
+    sequenceNumber:  118
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         9PythonKit21NumpyScalarCompatibleP
+      name:            init
+    sequenceNumber:  119
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s14DifferentiableP
+      name:            zeroTangentVectorInitializer
+    sequenceNumber:  120
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s14DifferentiableP
+      name:            init
+    sequenceNumber:  121
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s35_HasCustomAnyHashableRepresentationP
+      name:            init
+    sequenceNumber:  122
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            random
+    sequenceNumber:  123
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s18AdditiveArithmeticP
+      name:            ''
+    sequenceNumber:  124
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SM
+      name:            ''
+    sequenceNumber:  125
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            init
+    sequenceNumber:  126
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sf
+      name:            init
+    sequenceNumber:  127
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s27ExpressibleByIntegerLiteralP
+      name:            init
+    sequenceNumber:  128
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         10TensorFlow01_aB18DataTypeCompatibleP
+      name:            ''
+    sequenceNumber:  129
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s18AdditiveArithmeticP
+      name:            random
+    sequenceNumber:  130
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         9PythonKit0A11ConvertibleP
+      name:            init
+    sequenceNumber:  131
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            init
+    sequenceNumber:  132
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            ''
+    sequenceNumber:  133
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10TensorFlow0aB6ScalarP
+      name:            init
+    sequenceNumber:  134
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s17CustomReflectableP
+      name:            init
+    sequenceNumber:  135
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SE
+      name:            init
+    sequenceNumber:  136
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         9PythonKit015ConvertibleFromA0P
+      name:            random
+    sequenceNumber:  137
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s35_HasCustomAnyHashableRepresentationP
+      name:            random
+    sequenceNumber:  138
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s13SignedNumericP
+      name:            ''
+    sequenceNumber:  139
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s25LosslessStringConvertibleP
+      name:            ''
+    sequenceNumber:  140
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            ShapedArray
+    sequenceNumber:  141
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            boardSize
+    sequenceNumber:  142
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV12DistributionV
+      name:            init
+    sequenceNumber:  143
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10TensorFlow11ShapedArrayV
+      name:            init
+    sequenceNumber:  144
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SF
+      name:            ''
+    sequenceNumber:  145
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            boardSize
+    sequenceNumber:  146
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SE
+      name:            random
+    sequenceNumber:  147
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s34CustomPlaygroundDisplayConvertibleP
+      name:            init
+    sequenceNumber:  148
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            ''
+    sequenceNumber:  149
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sx
+      name:            ''
+    sequenceNumber:  150
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SB
+      name:            ''
+    sequenceNumber:  151
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s10SIMDScalarP
+      name:            init
+    sequenceNumber:  152
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SZ
+      name:            random
+    sequenceNumber:  153
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            MCTSPrediction
+    sequenceNumber:  154
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s19ElementaryFunctionsP
+      name:            ''
+    sequenceNumber:  155
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sk
+      name:            ''
+    sequenceNumber:  156
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sz
+      name:            ''
+    sequenceNumber:  157
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            init
+    sequenceNumber:  158
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            deinit
+    sequenceNumber:  159
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20TextOutputStreamableP
+      name:            init
+    sequenceNumber:  160
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            init
+    sequenceNumber:  161
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s7CVarArgP
+      name:            random
+    sequenceNumber:  162
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            prediction
+    sequenceNumber:  163
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s10MirrorPathP
+      name:            random
+    sequenceNumber:  164
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s30_CustomPlaygroundQuickLookableP
+      name:            random
+    sequenceNumber:  165
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sz
+      name:            random
+    sequenceNumber:  166
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s27ExpressibleByIntegerLiteralP
+      name:            ''
+    sequenceNumber:  167
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s14VectorProtocolP
+      name:            init
+    sequenceNumber:  168
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sk
+      name:            init
+    sequenceNumber:  169
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  170
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            init
+    sequenceNumber:  171
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SL
+      name:            ''
+    sequenceNumber:  172
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  173
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SK
+      name:            ''
+    sequenceNumber:  174
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s25LosslessStringConvertibleP
+      name:            random
+    sequenceNumber:  175
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s13SignedNumericP
+      name:            random
+    sequenceNumber:  176
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         10TensorFlow13XLAScalarTypeP
+      name:            ''
+    sequenceNumber:  177
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s25LosslessStringConvertibleP
+      name:            init
+    sequenceNumber:  178
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s10SIMDScalarP
+      name:            random
+    sequenceNumber:  179
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sl
+      name:            init
+    sequenceNumber:  180
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s17CustomReflectableP
+      name:            random
+    sequenceNumber:  181
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10TensorFlow0aB13FloatingPointP
+      name:            init
+    sequenceNumber:  182
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s33_ExpressibleByBuiltinFloatLiteralP
+      name:            init
+    sequenceNumber:  183
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sj
+      name:            init
+    sequenceNumber:  184
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10TensorFlow20_ShapedArrayProtocolP
+      name:            init
+    sequenceNumber:  185
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s30_CustomPlaygroundQuickLookableP
+      name:            init
+    sequenceNumber:  186
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s17FixedWidthIntegerP
+      name:            random
+    sequenceNumber:  187
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s14DifferentiableP
+      name:            move
+    sequenceNumber:  188
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s25ExpressibleByFloatLiteralP
+      name:            ''
+    sequenceNumber:  189
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            random
+    sequenceNumber:  190
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         9PythonKit015ConvertibleFromA0P
+      name:            init
+    sequenceNumber:  191
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sj
+      name:            ''
+    sequenceNumber:  192
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s18AdditiveArithmeticP
+      name:            init
+    sequenceNumber:  193
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15_CVarArgAlignedP
+      name:            init
+    sequenceNumber:  194
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s14DifferentiableP
+      name:            ''
+    sequenceNumber:  195
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            Int
+    sequenceNumber:  196
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            Int
+    sequenceNumber:  197
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s21_ObjectiveCBridgeableP
+      name:            init
+    sequenceNumber:  198
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SM
+      name:            init
+    sequenceNumber:  199
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         ST
+      name:            init
+    sequenceNumber:  200
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SB
+      name:            init
+    sequenceNumber:  201
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            init
+    sequenceNumber:  202
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            ShapedArray
+    sequenceNumber:  203
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         9PythonKit0A11ConvertibleP
+      name:            random
+    sequenceNumber:  204
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            random
+    sequenceNumber:  205
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10TensorFlow01_aB18DataTypeCompatibleP
+      name:            init
+    sequenceNumber:  206
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s27ExpressibleByIntegerLiteralP
+      name:            random
+    sequenceNumber:  207
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s13SignedNumericP
+      name:            init
+    sequenceNumber:  208
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sl
+      name:            ''
+    sequenceNumber:  209
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            init
+    sequenceNumber:  210
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sj
+      name:            random
+    sequenceNumber:  211
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SL
+      name:            random
+    sequenceNumber:  212
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10TensorFlow0A15RangeExpressionP
+      name:            random
+    sequenceNumber:  213
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s21_ObjectiveCBridgeableP
+      name:            random
+    sequenceNumber:  214
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sx
+      name:            init
+    sequenceNumber:  215
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Si
+      name:            random
+    sequenceNumber:  216
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s25ExpressibleByArrayLiteralP
+      name:            init
+    sequenceNumber:  217
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            Float
+    sequenceNumber:  218
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            ''
+    sequenceNumber:  219
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s22_CVarArgPassedAsDoubleP
+      name:            init
+    sequenceNumber:  220
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            BoardState
+    sequenceNumber:  221
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            ''
+    sequenceNumber:  222
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         ST
+      name:            ''
+    sequenceNumber:  223
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo14MCTSPredictionV
+      name:            Distribution
+    sequenceNumber:  224
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sx
+      name:            random
+    sequenceNumber:  225
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         9PythonKit25ConvertibleFromNumpyArrayP
+      name:            init
+    sequenceNumber:  226
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            random
+    sequenceNumber:  227
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         10TensorFlow0aB6ScalarP
+      name:            ''
+    sequenceNumber:  228
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo13MCTSPredictorP
+      name:            Float
+    sequenceNumber:  229
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         6MiniGo19MCTSRandomPredictorC
+      name:            init
+    sequenceNumber:  230
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SF
+      name:            init
+    sequenceNumber:  231
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s19ElementaryFunctionsP
+      name:            init
+    sequenceNumber:  232
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SL
+      name:            init
+    sequenceNumber:  233
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23EuclideanDifferentiableP
+      name:            init
+    sequenceNumber:  234
+    defsIDependUpon: [  ]
+    isProvides:      false
+...

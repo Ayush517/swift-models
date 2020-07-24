@@ -1,0 +1,1726 @@
+# Fine-grained v0
+---
+allNodes:
+  - key:
+      kind:            sourceFileProvide
+      aspect:          interface
+      context:         ''
+      name:            'Datasets/CMakeFiles/Datasets.dir/ObjectDetectionDataset.swift.o.swiftdeps'
+    fingerprint:     65a35ab6a98fcb806f5104b19f8e2221
+    sequenceNumber:  0
+    defsIDependUpon: [ 208, 207, 205, 203, 202, 201, 200, 199, 198, 197, 
+                       196, 195, 194, 193, 192, 191, 190, 189, 188, 186, 
+                       184, 183, 182, 181, 180, 179, 178, 177, 176, 175, 
+                       174, 173, 172, 171, 168, 167, 166, 165, 164, 163, 
+                       162, 161, 160, 159, 158, 157, 156, 155, 154, 153, 
+                       152, 151, 150, 149, 148, 147, 146, 145, 144, 143, 
+                       142, 140, 139, 138, 137, 136, 135, 134, 133, 132, 
+                       131, 130, 127, 126, 122, 121, 120, 119, 118, 117, 
+                       116, 115, 114, 113, 112, 111, 110, 109, 108, 107, 
+                       106, 105, 104, 103, 100, 99, 98, 97, 96, 95, 94, 
+                       93, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 
+                       80, 79, 78, 77, 76, 72, 71, 70, 69, 68, 67, 66, 
+                       65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 
+                       53, 52, 48, 47, 46, 45, 44, 43, 42, 41, 40, 36, 
+                       35, 33, 39, 51, 75, 125, 28, 129, 32, 38, 50, 74, 
+                       27, 128, 31, 37, 49, 73, 123, 26 ]
+    isProvides:      true
+  - key:
+      kind:            sourceFileProvide
+      aspect:          implementation
+      context:         ''
+      name:            'Datasets/CMakeFiles/Datasets.dir/ObjectDetectionDataset.swift.o.swiftdeps'
+    fingerprint:     65a35ab6a98fcb806f5104b19f8e2221
+    sequenceNumber:  1
+    defsIDependUpon: [ 209, 206, 204, 101, 124, 170, 185, 187, 141, 102, 
+                       169, 92, 30, 34, 29 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            LazyImage
+    fingerprint:     8b3213534604c47c40487abc3b9c4a62
+    sequenceNumber:  2
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            LazyImage
+    fingerprint:     8b3213534604c47c40487abc3b9c4a62
+    sequenceNumber:  3
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            LabeledObject
+    fingerprint:     a65523d359896305a1e6ca5cc711d66a
+    sequenceNumber:  4
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            LabeledObject
+    fingerprint:     a65523d359896305a1e6ca5cc711d66a
+    sequenceNumber:  5
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ObjectDetectionExample
+    fingerprint:     bbe7a1870d350b443b332a396eca81ab
+    sequenceNumber:  6
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            ObjectDetectionExample
+    fingerprint:     bbe7a1870d350b443b332a396eca81ab
+    sequenceNumber:  7
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ObjectDetectionData
+    fingerprint:     dc53a100b5ef83148f40b2ed9f2076b4
+    sequenceNumber:  8
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            ObjectDetectionData
+    fingerprint:     dc53a100b5ef83148f40b2ed9f2076b4
+    sequenceNumber:  9
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            ''
+    fingerprint:     8b3213534604c47c40487abc3b9c4a62
+    sequenceNumber:  10
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Datasets9LazyImageV
+      name:            ''
+    fingerprint:     8b3213534604c47c40487abc3b9c4a62
+    sequenceNumber:  11
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            ''
+    fingerprint:     a65523d359896305a1e6ca5cc711d66a
+    sequenceNumber:  12
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Datasets13LabeledObjectV
+      name:            ''
+    fingerprint:     a65523d359896305a1e6ca5cc711d66a
+    sequenceNumber:  13
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            ''
+    fingerprint:     bbe7a1870d350b443b332a396eca81ab
+    sequenceNumber:  14
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            ''
+    fingerprint:     bbe7a1870d350b443b332a396eca81ab
+    sequenceNumber:  15
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            ''
+    fingerprint:     dc53a100b5ef83148f40b2ed9f2076b4
+    sequenceNumber:  16
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Datasets19ObjectDetectionDataP
+      name:            ''
+    fingerprint:     dc53a100b5ef83148f40b2ed9f2076b4
+    sequenceNumber:  17
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            ''
+    fingerprint:     8b3213534604c47c40487abc3b9c4a62
+    sequenceNumber:  18
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Datasets9LazyImageV
+      name:            ''
+    fingerprint:     8b3213534604c47c40487abc3b9c4a62
+    sequenceNumber:  19
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            ''
+    fingerprint:     a65523d359896305a1e6ca5cc711d66a
+    sequenceNumber:  20
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Datasets13LabeledObjectV
+      name:            ''
+    fingerprint:     a65523d359896305a1e6ca5cc711d66a
+    sequenceNumber:  21
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            ''
+    fingerprint:     bbe7a1870d350b443b332a396eca81ab
+    sequenceNumber:  22
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            ''
+    fingerprint:     bbe7a1870d350b443b332a396eca81ab
+    sequenceNumber:  23
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            ''
+    fingerprint:     dc53a100b5ef83148f40b2ed9f2076b4
+    sequenceNumber:  24
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Datasets19ObjectDetectionDataP
+      name:            ''
+    fingerprint:     dc53a100b5ef83148f40b2ed9f2076b4
+    sequenceNumber:  25
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Tensor
+    sequenceNumber:  26
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Float
+    sequenceNumber:  27
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            COCO
+    sequenceNumber:  28
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            url
+    sequenceNumber:  29
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Image
+    sequenceNumber:  30
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            URL
+    sequenceNumber:  31
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            String
+    sequenceNumber:  32
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Collection
+    sequenceNumber:  33
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '!='
+    sequenceNumber:  34
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            AssignmentPrecedence
+    sequenceNumber:  35
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Sequence
+    sequenceNumber:  36
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Bool
+    sequenceNumber:  37
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            RLE
+    sequenceNumber:  38
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Training
+    sequenceNumber:  39
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Int
+    sequenceNumber:  40
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Device
+    sequenceNumber:  41
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            KeyPathIterable
+    sequenceNumber:  42
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Validation
+    sequenceNumber:  43
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Swift.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  44
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/Support/STBImage/include/module.modulemap'
+    sequenceNumber:  45
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Foundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  46
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Darwin.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  47
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes'
+    sequenceNumber:  48
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreFoundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  49
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes'
+    sequenceNumber:  50
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes'
+    sequenceNumber:  51
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Dispatch.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  52
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/ObjectiveC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  53
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreGraphics.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  54
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    sequenceNumber:  55
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/IOKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  56
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    sequenceNumber:  57
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes'
+    sequenceNumber:  58
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    sequenceNumber:  59
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes'
+    sequenceNumber:  60
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    sequenceNumber:  61
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/XPC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  62
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/ModelSupport.swiftmodule'
+    sequenceNumber:  63
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/SwiftProtobuf.swiftmodule'
+    sequenceNumber:  64
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  65
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/TensorFlow.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  66
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/PythonKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  67
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Tensor.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  68
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            ''
+    sequenceNumber:  69
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s25ExpressibleByFloatLiteralP
+      name:            ''
+    sequenceNumber:  70
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         ST
+      name:            ''
+    sequenceNumber:  71
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            ''
+    sequenceNumber:  72
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s26ExpressibleByStringLiteralP
+      name:            ''
+    sequenceNumber:  73
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            ''
+    sequenceNumber:  74
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s43ExpressibleByExtendedGraphemeClusterLiteralP
+      name:            ''
+    sequenceNumber:  75
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s20TextOutputStreamableP
+      name:            ''
+    sequenceNumber:  76
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sl
+      name:            ''
+    sequenceNumber:  77
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s14PartialKeyPathC
+      name:            ''
+    sequenceNumber:  78
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow01_aB18DataTypeCompatibleP
+      name:            ''
+    sequenceNumber:  79
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP
+      name:            ''
+    sequenceNumber:  80
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            ''
+    sequenceNumber:  81
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s13SignedNumericP
+      name:            ''
+    sequenceNumber:  82
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s27ExpressibleByIntegerLiteralP
+      name:            ''
+    sequenceNumber:  83
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s25LosslessStringConvertibleP
+      name:            ''
+    sequenceNumber:  84
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SK
+      name:            ''
+    sequenceNumber:  85
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s33ExpressibleByUnicodeScalarLiteralP
+      name:            ''
+    sequenceNumber:  86
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s41_ExpressibleByBuiltinUnicodeScalarLiteralP
+      name:            ''
+    sequenceNumber:  87
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  88
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            ''
+    sequenceNumber:  89
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            ''
+    sequenceNumber:  90
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s18AdditiveArithmeticP
+      name:            ''
+    sequenceNumber:  91
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         12ModelSupport5ImageV
+      name:            ''
+    sequenceNumber:  92
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  93
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            ''
+    sequenceNumber:  94
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sj
+      name:            ''
+    sequenceNumber:  95
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            ''
+    sequenceNumber:  96
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SF
+      name:            ''
+    sequenceNumber:  97
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow13XLAScalarTypeP
+      name:            ''
+    sequenceNumber:  98
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SL
+      name:            ''
+    sequenceNumber:  99
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sx
+      name:            ''
+    sequenceNumber:  100
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s25ExpressibleByArrayLiteralP
+      name:            ''
+    sequenceNumber:  101
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s23ExpressibleByNilLiteralP
+      name:            ''
+    sequenceNumber:  102
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            ''
+    sequenceNumber:  103
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            allKeyPathsTypeErased
+    sequenceNumber:  104
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            COCO
+    sequenceNumber:  105
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            recursivelyAllKeyPathsTypeErased
+    sequenceNumber:  106
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            Int
+    sequenceNumber:  107
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s25ExpressibleByFloatLiteralP
+      name:            ''
+    sequenceNumber:  108
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         ST
+      name:            ''
+    sequenceNumber:  109
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            xMin
+    sequenceNumber:  110
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            LazyImage
+    sequenceNumber:  111
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            AllKeyPaths
+    sequenceNumber:  112
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            AllKeyPaths
+    sequenceNumber:  113
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s26ExpressibleByStringLiteralP
+      name:            ''
+    sequenceNumber:  114
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            _recursivelyAllKeyPathsTypeErased
+    sequenceNumber:  115
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            classId
+    sequenceNumber:  116
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s43ExpressibleByExtendedGraphemeClusterLiteralP
+      name:            ''
+    sequenceNumber:  117
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s20TextOutputStreamableP
+      name:            ''
+    sequenceNumber:  118
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sl
+      name:            ''
+    sequenceNumber:  119
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            AllKeyPaths
+    sequenceNumber:  120
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s14PartialKeyPathC
+      name:            ''
+    sequenceNumber:  121
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            String
+    sequenceNumber:  122
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            Sequence
+    sequenceNumber:  123
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            objects
+    sequenceNumber:  124
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            ObjectDetectionExample
+    sequenceNumber:  125
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         10TensorFlow01_aB18DataTypeCompatibleP
+      name:            ''
+    sequenceNumber:  126
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            yMax
+    sequenceNumber:  127
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP
+      name:            ''
+    sequenceNumber:  128
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            init
+    sequenceNumber:  129
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            Default_AllKeyPaths
+    sequenceNumber:  130
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            yMin
+    sequenceNumber:  131
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            _allKeyPathsTypeErased
+    sequenceNumber:  132
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         So8NSCodingP
+      name:            ''
+    sequenceNumber:  133
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            Default_AllKeyPaths
+    sequenceNumber:  134
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            allKeyPaths
+    sequenceNumber:  135
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            allKeyPaths
+    sequenceNumber:  136
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            validation
+    sequenceNumber:  137
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            isCrowd
+    sequenceNumber:  138
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            _Default_AllKeyPaths
+    sequenceNumber:  139
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            Element
+    sequenceNumber:  140
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            image
+    sequenceNumber:  141
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            LabeledObject
+    sequenceNumber:  142
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            objects
+    sequenceNumber:  143
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s13SignedNumericP
+      name:            ''
+    sequenceNumber:  144
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            _allKeyPathsTypeErased
+    sequenceNumber:  145
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            Collection
+    sequenceNumber:  146
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s27ExpressibleByIntegerLiteralP
+      name:            ''
+    sequenceNumber:  147
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            Tensor
+    sequenceNumber:  148
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s25LosslessStringConvertibleP
+      name:            ''
+    sequenceNumber:  149
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SK
+      name:            ''
+    sequenceNumber:  150
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s33ExpressibleByUnicodeScalarLiteralP
+      name:            ''
+    sequenceNumber:  151
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            training
+    sequenceNumber:  152
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s41_ExpressibleByBuiltinUnicodeScalarLiteralP
+      name:            ''
+    sequenceNumber:  153
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            allKeyPathsTypeErased
+    sequenceNumber:  154
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  155
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            allKeyPaths
+    sequenceNumber:  156
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            image
+    sequenceNumber:  157
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            recursivelyAllKeyPathsTypeErased
+    sequenceNumber:  158
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            init
+    sequenceNumber:  159
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            _Default_AllKeyPaths
+    sequenceNumber:  160
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            Default_AllKeyPaths
+    sequenceNumber:  161
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            xMax
+    sequenceNumber:  162
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            _allKeyPathsTypeErased
+    sequenceNumber:  163
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            Validation
+    sequenceNumber:  164
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            Float
+    sequenceNumber:  165
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            ''
+    sequenceNumber:  166
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s18AdditiveArithmeticP
+      name:            ''
+    sequenceNumber:  167
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            tensor
+    sequenceNumber:  168
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         12ModelSupport5ImageV
+      name:            init
+    sequenceNumber:  169
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            objects
+    sequenceNumber:  170
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  171
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            RLE
+    sequenceNumber:  172
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            _recursivelyAllKeyPathsTypeErased
+    sequenceNumber:  173
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            init
+    sequenceNumber:  174
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            area
+    sequenceNumber:  175
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            URL
+    sequenceNumber:  176
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            Device
+    sequenceNumber:  177
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Sl
+      name:            Element
+    sequenceNumber:  178
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         So8NSObjectP
+      name:            ''
+    sequenceNumber:  179
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            maskRLE
+    sequenceNumber:  180
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sj
+      name:            ''
+    sequenceNumber:  181
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s15KeyPathIterableP
+      name:            ''
+    sequenceNumber:  182
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            allKeyPathsTypeErased
+    sequenceNumber:  183
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         ST
+      name:            Element
+    sequenceNumber:  184
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            Image
+    sequenceNumber:  185
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            ''
+    sequenceNumber:  186
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         12ModelSupport5ImageV
+      name:            tensor
+    sequenceNumber:  187
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SF
+      name:            ''
+    sequenceNumber:  188
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         10TensorFlow13XLAScalarTypeP
+      name:            ''
+    sequenceNumber:  189
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            width
+    sequenceNumber:  190
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            Bool
+    sequenceNumber:  191
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SL
+      name:            ''
+    sequenceNumber:  192
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            ''
+    sequenceNumber:  193
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            init
+    sequenceNumber:  194
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            Int
+    sequenceNumber:  195
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            height
+    sequenceNumber:  196
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            Training
+    sequenceNumber:  197
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            Float
+    sequenceNumber:  198
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            Int
+    sequenceNumber:  199
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            recursivelyAllKeyPathsTypeErased
+    sequenceNumber:  200
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets9LazyImageV
+      name:            url
+    sequenceNumber:  201
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sx
+      name:            ''
+    sequenceNumber:  202
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets22ObjectDetectionExampleV
+      name:            _recursivelyAllKeyPathsTypeErased
+    sequenceNumber:  203
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s25ExpressibleByArrayLiteralP
+      name:            init
+    sequenceNumber:  204
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            _Default_AllKeyPaths
+    sequenceNumber:  205
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23ExpressibleByNilLiteralP
+      name:            init
+    sequenceNumber:  206
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets19ObjectDetectionDataP
+      name:            init
+    sequenceNumber:  207
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Datasets13LabeledObjectV
+      name:            className
+    sequenceNumber:  208
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s20_KeyPathIterableBaseP
+      name:            image
+    sequenceNumber:  209
+    defsIDependUpon: [  ]
+    isProvides:      false
+...

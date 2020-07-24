@@ -1,0 +1,4335 @@
+# Fine-grained v0
+---
+allNodes:
+  - key:
+      kind:            sourceFileProvide
+      aspect:          interface
+      context:         ''
+      name:            'Examples/Fractals/CMakeFiles/Fractals.dir/main.swift.o.swiftdeps'
+    fingerprint:     c0bdd3b87f1914d88a70cbea17b98d6d
+    sequenceNumber:  0
+    defsIDependUpon: [ 530, 528, 524, 512, 507, 472, 465, 458, 454, 453, 
+                       450, 448, 439, 436, 433, 431, 430, 429, 426, 425, 
+                       422, 421, 420, 418, 416, 415, 413, 412, 411, 410, 
+                       409, 408, 406, 405, 404, 403, 402, 401, 400, 399, 
+                       398, 397, 394, 393, 392, 391, 390, 386, 385, 384, 
+                       383, 381, 380, 374, 372, 371, 370, 369, 368, 366, 
+                       365, 364, 363, 362, 361, 360, 358, 357, 356, 355, 
+                       354, 353, 350, 349, 346, 343, 341, 340, 337, 335, 
+                       334, 333, 331, 330, 329, 328, 325, 324, 307, 306, 
+                       272, 260, 258, 257, 254, 253, 252, 250, 249, 248, 
+                       244, 239, 238, 237, 236, 235, 234, 233, 231, 230, 
+                       228, 227, 226, 224, 223, 222, 221, 218, 216, 215, 
+                       214, 213, 211, 210, 208, 207, 206, 205, 202, 200, 
+                       199, 198, 195, 194, 193, 191, 190, 189, 188, 186, 
+                       185, 184, 183, 181, 165, 160, 157, 154, 153, 149, 
+                       139, 138, 137, 136, 531, 134, 529, 132, 327, 527, 
+                       130, 326, 129, 323, 126, 322, 125, 321, 124, 520, 
+                       123, 519, 122, 121, 317, 517, 120, 316, 516, 119, 
+                       315, 118, 314, 117, 313, 116, 511, 114, 310, 510, 
+                       113, 509, 112, 508, 111, 305, 505, 108, 106, 302, 
+                       502, 105, 301, 501, 104, 103, 102, 297, 497, 100, 
+                       296, 496, 99, 295, 495, 98, 291, 94, 290, 490, 93, 
+                       289, 92, 486, 89, 285, 485, 88, 484, 87, 283, 483, 
+                       86, 282, 482, 85, 281, 481, 84, 180, 280, 480, 83, 
+                       179, 279, 479, 82, 278, 81, 177, 277, 80, 176, 79, 
+                       175, 275, 475, 78, 273, 76, 74, 70, 266, 69, 161, 
+                       261, 461, 64, 159, 459, 62, 255, 455, 58, 170, 270, 
+                       73, 494, 97, 147, 447, 50, 169, 269, 469, 72, 293, 
+                       96, 246, 446, 49, 164, 464, 67, 91, 141, 241, 441, 
+                       44, 156, 456, 59, 268, 71, 292, 95, 445, 48, 162, 
+                       262, 462, 65, 77, 298, 498, 101, 151, 451, 54, 163, 
+                       463, 66, 487, 90, 140, 440, 43 ]
+    isProvides:      true
+  - key:
+      kind:            sourceFileProvide
+      aspect:          implementation
+      context:         ''
+      name:            'Examples/Fractals/CMakeFiles/Fractals.dir/main.swift.o.swiftdeps'
+    fingerprint:     c0bdd3b87f1914d88a70cbea17b98d6d
+    sequenceNumber:  1
+    defsIDependUpon: [ 532, 526, 523, 518, 514, 513, 499, 493, 492, 489, 
+                       488, 478, 477, 476, 474, 470, 467, 466, 452, 443, 
+                       438, 435, 434, 432, 428, 427, 424, 423, 419, 407, 
+                       396, 395, 388, 387, 382, 378, 377, 376, 373, 367, 
+                       359, 351, 348, 148, 345, 135, 332, 320, 319, 515, 
+                       318, 115, 312, 311, 308, 299, 288, 287, 286, 473, 
+                       276, 471, 274, 267, 259, 256, 229, 417, 220, 219, 
+                       414, 217, 209, 300, 203, 201, 173, 75, 172, 171, 
+                       68, 265, 168, 264, 167, 460, 263, 166, 61, 158, 
+                       449, 55, 152, 145, 342, 442, 245, 51, 338, 47, 144, 
+                       437, 240, 243, 46, 143, 336, 242, 45, 339, 142, 
+                       379, 182, 232, 375, 178, 525, 131, 225, 522, 128, 
+                       468, 271, 174, 521, 127, 133, 457, 63, 107, 304, 
+                       504, 110, 500, 303, 503, 109, 60, 204, 352, 155, 
+                       196, 146, 52, 389, 192, 251, 57, 506, 309, 212, 
+                       284, 187, 491, 294, 197, 344, 444, 247, 53, 150, 
+                       347, 56, 42 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            FractalCommand
+    fingerprint:     cd265357985ef03eeb34c8b6cbda9497
+    sequenceNumber:  2
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            FractalCommand
+    fingerprint:     cd265357985ef03eeb34c8b6cbda9497
+    sequenceNumber:  3
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            ''
+    fingerprint:     cd265357985ef03eeb34c8b6cbda9497
+    sequenceNumber:  4
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV
+      name:            ''
+    fingerprint:     cd265357985ef03eeb34c8b6cbda9497
+    sequenceNumber:  5
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            ''
+    fingerprint:     f316737c7824f99af23720c9b8d72463
+    sequenceNumber:  6
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            ''
+    fingerprint:     f316737c7824f99af23720c9b8d72463
+    sequenceNumber:  7
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  8
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  9
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            ''
+    fingerprint:     3e3600bd832ccd1029a1b382f50e90d9
+    sequenceNumber:  10
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            ''
+    fingerprint:     3e3600bd832ccd1029a1b382f50e90d9
+    sequenceNumber:  11
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  12
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  13
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            ''
+    fingerprint:     d4c1f62d2f33347fbc1e0df3e964ac73
+    sequenceNumber:  14
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            ''
+    fingerprint:     d4c1f62d2f33347fbc1e0df3e964ac73
+    sequenceNumber:  15
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  16
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  17
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  18
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  19
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            ''
+    fingerprint:     cd265357985ef03eeb34c8b6cbda9497
+    sequenceNumber:  20
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV
+      name:            ''
+    fingerprint:     cd265357985ef03eeb34c8b6cbda9497
+    sequenceNumber:  21
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            ''
+    fingerprint:     f316737c7824f99af23720c9b8d72463
+    sequenceNumber:  22
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            ''
+    fingerprint:     f316737c7824f99af23720c9b8d72463
+    sequenceNumber:  23
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  24
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  25
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            ''
+    fingerprint:     3e3600bd832ccd1029a1b382f50e90d9
+    sequenceNumber:  26
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            ''
+    fingerprint:     3e3600bd832ccd1029a1b382f50e90d9
+    sequenceNumber:  27
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  28
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  29
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            ''
+    fingerprint:     d4c1f62d2f33347fbc1e0df3e964ac73
+    sequenceNumber:  30
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            ''
+    fingerprint:     d4c1f62d2f33347fbc1e0df3e964ac73
+    sequenceNumber:  31
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  32
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  33
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  34
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            ''
+    sequenceNumber:  35
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            Parameters
+    sequenceNumber:  36
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            member
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV
+      name:            Parameters
+    sequenceNumber:  37
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            JuliaSubcommand
+    sequenceNumber:  38
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            member
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV
+      name:            JuliaSubcommand
+    sequenceNumber:  39
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            MandelbrotSubcommand
+    sequenceNumber:  40
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            member
+      aspect:          implementation
+      context:         8Fractals14FractalCommandV
+      name:            MandelbrotSubcommand
+    sequenceNumber:  41
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            constant
+    sequenceNumber:  42
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            MandelbrotSubcommand
+    sequenceNumber:  43
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ParsableArguments
+    sequenceNumber:  44
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            IntegerLiteralType
+    sequenceNumber:  45
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            x10
+    sequenceNumber:  46
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            juliaSet
+    sequenceNumber:  47
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Array
+    sequenceNumber:  48
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Flag
+    sequenceNumber:  49
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ImageSize
+    sequenceNumber:  50
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            mandelbrotSet
+    sequenceNumber:  51
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '&&'
+    sequenceNumber:  52
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ValidationError
+    sequenceNumber:  53
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ComplexConstant
+    sequenceNumber:  54
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            FloatLiteralType
+    sequenceNumber:  55
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            saveFractalImage
+    sequenceNumber:  56
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            parameters
+    sequenceNumber:  57
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            CommandConfiguration
+    sequenceNumber:  58
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Option
+    sequenceNumber:  59
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            print
+    sequenceNumber:  60
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            eager
+    sequenceNumber:  61
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Bool
+    sequenceNumber:  62
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '~='
+    sequenceNumber:  63
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Float
+    sequenceNumber:  64
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ParsableCommand
+    sequenceNumber:  65
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            String
+    sequenceNumber:  66
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            OptionGroup
+    sequenceNumber:  67
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '!'
+    sequenceNumber:  68
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Int
+    sequenceNumber:  69
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            ComplexRegion
+    sequenceNumber:  70
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            Device
+    sequenceNumber:  71
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '=='
+    sequenceNumber:  72
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            StringLiteralType
+    sequenceNumber:  73
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            AssignmentPrecedence
+    sequenceNumber:  74
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            '??'
+    sequenceNumber:  75
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            JuliaSubcommand
+    sequenceNumber:  76
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Swift.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  77
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/Support/STBImage/include/module.modulemap'
+    sequenceNumber:  78
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/ArgumentParser.swiftmodule'
+    sequenceNumber:  79
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Darwin.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  80
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes'
+    sequenceNumber:  81
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  82
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/TensorFlow.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  83
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Foundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  84
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreFoundation.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  85
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes'
+    sequenceNumber:  86
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes'
+    sequenceNumber:  87
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Dispatch.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  88
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/ObjectiveC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  89
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/CoreGraphics.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  90
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    sequenceNumber:  91
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/IOKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  92
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    sequenceNumber:  93
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes'
+    sequenceNumber:  94
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    sequenceNumber:  95
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes'
+    sequenceNumber:  96
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    sequenceNumber:  97
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/XPC.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  98
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/PythonKit.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  99
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Library/Developer/Toolchains/swift-tensorflow-RELEASE-0.9.xctoolchain/usr/lib/swift/macosx/Tensor.swiftmodule/x86_64.swiftmodule'
+    sequenceNumber:  100
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/ModelSupport.swiftmodule'
+    sequenceNumber:  101
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/ayush517/swift-models/swift/SwiftProtobuf.swiftmodule'
+    sequenceNumber:  102
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Se
+      name:            ''
+    sequenceNumber:  103
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            ''
+    sequenceNumber:  104
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            ''
+    sequenceNumber:  105
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            ''
+    sequenceNumber:  106
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s27StringInterpolationProtocolP
+      name:            ''
+    sequenceNumber:  107
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser0A11SetProviderP
+      name:            ''
+    sequenceNumber:  108
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser013ExpressibleByA0P
+      name:            ''
+    sequenceNumber:  109
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            ''
+    sequenceNumber:  110
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  111
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser13ParsedWrapperP
+      name:            ''
+    sequenceNumber:  112
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s26ExpressibleByStringLiteralP
+      name:            ''
+    sequenceNumber:  113
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            ''
+    sequenceNumber:  114
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s33_ExpressibleByBuiltinFloatLiteralP
+      name:            ''
+    sequenceNumber:  115
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s25ExpressibleByFloatLiteralP
+      name:            ''
+    sequenceNumber:  116
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            ''
+    sequenceNumber:  117
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser11OptionGroupV
+      name:            ''
+    sequenceNumber:  118
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s13SignedNumericP
+      name:            ''
+    sequenceNumber:  119
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser6OptionV
+      name:            ''
+    sequenceNumber:  120
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser4FlagV
+      name:            ''
+    sequenceNumber:  121
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow13XLAScalarTypeP
+      name:            ''
+    sequenceNumber:  122
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s27ExpressibleByIntegerLiteralP
+      name:            ''
+    sequenceNumber:  123
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  124
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals13ComplexRegionV
+      name:            ''
+    sequenceNumber:  125
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s25ExpressibleByArrayLiteralP
+      name:            ''
+    sequenceNumber:  126
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            ''
+    sequenceNumber:  127
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser15ValidationErrorV
+      name:            ''
+    sequenceNumber:  128
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sj
+      name:            ''
+    sequenceNumber:  129
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals9ImageSizeV
+      name:            ''
+    sequenceNumber:  130
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow6DeviceV
+      name:            ''
+    sequenceNumber:  131
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         10TensorFlow01_aB18DataTypeCompatibleP
+      name:            ''
+    sequenceNumber:  132
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            ''
+    sequenceNumber:  133
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         8Fractals15ComplexConstantV
+      name:            ''
+    sequenceNumber:  134
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s26DefaultStringInterpolationV
+      name:            ''
+    sequenceNumber:  135
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SF
+      name:            ''
+    sequenceNumber:  136
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser22DecodableParsedWrapperP
+      name:            ''
+    sequenceNumber:  137
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         Sx
+      name:            ''
+    sequenceNumber:  138
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s34_ExpressibleByBuiltinStringLiteralP
+      name:            ''
+    sequenceNumber:  139
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s18AdditiveArithmeticP
+      name:            ''
+    sequenceNumber:  140
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         SL
+      name:            ''
+    sequenceNumber:  141
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s30KeyedDecodingContainerProtocolP
+      name:            ''
+    sequenceNumber:  142
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s6HasherV
+      name:            ''
+    sequenceNumber:  143
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s5ErrorP
+      name:            ''
+    sequenceNumber:  144
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s22KeyedDecodingContainerV
+      name:            ''
+    sequenceNumber:  145
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s7DecoderP
+      name:            ''
+    sequenceNumber:  146
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         14ArgumentParser20CommandConfigurationV
+      name:            ''
+    sequenceNumber:  147
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            juliaSet
+    sequenceNumber:  148
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            _rawHashValue
+    sequenceNumber:  149
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            saveFractalImage
+    sequenceNumber:  150
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            _rawHashValue
+    sequenceNumber:  151
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            constant
+    sequenceNumber:  152
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            main
+    sequenceNumber:  153
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            x10
+    sequenceNumber:  154
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            _tolerance
+    sequenceNumber:  155
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            Bool
+    sequenceNumber:  156
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            ''
+    sequenceNumber:  157
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s27StringInterpolationProtocolP
+      name:            appendLiteral
+    sequenceNumber:  158
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            description
+    sequenceNumber:  159
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            ParsableCommand
+    sequenceNumber:  160
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            MandelbrotSubcommand
+    sequenceNumber:  161
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser0A11SetProviderP
+      name:            wrappedValue
+    sequenceNumber:  162
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            commandName
+    sequenceNumber:  163
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            init
+    sequenceNumber:  164
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            eager
+    sequenceNumber:  165
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser013ExpressibleByA0P
+      name:            init
+    sequenceNumber:  166
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            parameters
+    sequenceNumber:  167
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            ImageSize
+    sequenceNumber:  168
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            intValue
+    sequenceNumber:  169
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            init
+    sequenceNumber:  170
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            _parameters
+    sequenceNumber:  171
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            _parameters
+    sequenceNumber:  172
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            appendInterpolation
+    sequenceNumber:  173
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            __derived_enum_equals
+    sequenceNumber:  174
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            _rawHashValue
+    sequenceNumber:  175
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            run
+    sequenceNumber:  176
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            debugDescription
+    sequenceNumber:  177
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            _region
+    sequenceNumber:  178
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            JuliaSubcommand
+    sequenceNumber:  179
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            validate
+    sequenceNumber:  180
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            constant
+    sequenceNumber:  181
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            _parameters
+    sequenceNumber:  182
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         14ArgumentParser13ParsedWrapperP
+      name:            ''
+    sequenceNumber:  183
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            stringValue
+    sequenceNumber:  184
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s26ExpressibleByStringLiteralP
+      name:            StringLiteralType
+    sequenceNumber:  185
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            intValue
+    sequenceNumber:  186
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            _constant
+    sequenceNumber:  187
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            Int
+    sequenceNumber:  188
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            _rawHashValue
+    sequenceNumber:  189
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            init
+    sequenceNumber:  190
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            hashValue
+    sequenceNumber:  191
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            Device
+    sequenceNumber:  192
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            description
+    sequenceNumber:  193
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            ''
+    sequenceNumber:  194
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            String
+    sequenceNumber:  195
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s33_ExpressibleByBuiltinFloatLiteralP
+      name:            init
+    sequenceNumber:  196
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            imageSize
+    sequenceNumber:  197
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            run
+    sequenceNumber:  198
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            Float
+    sequenceNumber:  199
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            Int
+    sequenceNumber:  200
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            mandelbrotSet
+    sequenceNumber:  201
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            init
+    sequenceNumber:  202
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            print
+    sequenceNumber:  203
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            x10
+    sequenceNumber:  204
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s25ExpressibleByFloatLiteralP
+      name:            ''
+    sequenceNumber:  205
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            _commandName
+    sequenceNumber:  206
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            Bool
+    sequenceNumber:  207
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            CodingKeys
+    sequenceNumber:  208
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s27StringInterpolationProtocolP
+      name:            init
+    sequenceNumber:  209
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            debugDescription
+    sequenceNumber:  210
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            constant
+    sequenceNumber:  211
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            ''
+    sequenceNumber:  212
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            region
+    sequenceNumber:  213
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            run
+    sequenceNumber:  214
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            stringValue
+    sequenceNumber:  215
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser11OptionGroupV
+      name:            wrappedValue
+    sequenceNumber:  216
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            _constant
+    sequenceNumber:  217
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s13SignedNumericP
+      name:            ''
+    sequenceNumber:  218
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            region
+    sequenceNumber:  219
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            iterations
+    sequenceNumber:  220
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            _commandName
+    sequenceNumber:  221
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            ComplexRegion
+    sequenceNumber:  222
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser0A11SetProviderP
+      name:            init
+    sequenceNumber:  223
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser6OptionV
+      name:            wrappedValue
+    sequenceNumber:  224
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            mandelbrotSet
+    sequenceNumber:  225
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser4FlagV
+      name:            wrappedValue
+    sequenceNumber:  226
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            hashValue
+    sequenceNumber:  227
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            hashValue
+    sequenceNumber:  228
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            ValidationError
+    sequenceNumber:  229
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            validate
+    sequenceNumber:  230
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            description
+    sequenceNumber:  231
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            iterations
+    sequenceNumber:  232
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         10TensorFlow13XLAScalarTypeP
+      name:            ''
+    sequenceNumber:  233
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            Parameters
+    sequenceNumber:  234
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            wrappedValue
+    sequenceNumber:  235
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            _commandName
+    sequenceNumber:  236
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s27ExpressibleByIntegerLiteralP
+      name:            ''
+    sequenceNumber:  237
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            debugDescription
+    sequenceNumber:  238
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser13ParsedWrapperP
+      name:            init
+    sequenceNumber:  239
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            _tolerance
+    sequenceNumber:  240
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            Option
+    sequenceNumber:  241
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            _region
+    sequenceNumber:  242
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            outputFile
+    sequenceNumber:  243
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            description
+    sequenceNumber:  244
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            appendLiteral
+    sequenceNumber:  245
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            Option
+    sequenceNumber:  246
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            ComplexRegion
+    sequenceNumber:  247
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            init
+    sequenceNumber:  248
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SH
+      name:            ''
+    sequenceNumber:  249
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            '=='
+    sequenceNumber:  250
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            juliaSet
+    sequenceNumber:  251
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser6OptionV
+      name:            projectedValue
+    sequenceNumber:  252
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            hashValue
+    sequenceNumber:  253
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            _commandName
+    sequenceNumber:  254
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            init
+    sequenceNumber:  255
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            __derived_enum_equals
+    sequenceNumber:  256
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser4FlagV
+      name:            projectedValue
+    sequenceNumber:  257
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            run
+    sequenceNumber:  258
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            _eager
+    sequenceNumber:  259
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            ImageSize
+    sequenceNumber:  260
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            ComplexConstant
+    sequenceNumber:  261
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            init
+    sequenceNumber:  262
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            saveFractalImage
+    sequenceNumber:  263
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            Device
+    sequenceNumber:  264
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            print
+    sequenceNumber:  265
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            ParsableCommand
+    sequenceNumber:  266
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            _outputFile
+    sequenceNumber:  267
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals13ComplexRegionV
+      name:            ''
+    sequenceNumber:  268
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s25ExpressibleByArrayLiteralP
+      name:            init
+    sequenceNumber:  269
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            ComplexConstant
+    sequenceNumber:  270
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s35_ExpressibleByBuiltinIntegerLiteralP
+      name:            init
+    sequenceNumber:  271
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            init
+    sequenceNumber:  272
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            MandelbrotSubcommand
+    sequenceNumber:  273
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            _imageSize
+    sequenceNumber:  274
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            hash
+    sequenceNumber:  275
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ValidationErrorV
+      name:            init
+    sequenceNumber:  276
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            ParsableArguments
+    sequenceNumber:  277
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            init
+    sequenceNumber:  278
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            debugDescription
+    sequenceNumber:  279
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sj
+      name:            ''
+    sequenceNumber:  280
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            '=='
+    sequenceNumber:  281
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            Float
+    sequenceNumber:  282
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            '=='
+    sequenceNumber:  283
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            ImageSize
+    sequenceNumber:  284
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            Flag
+    sequenceNumber:  285
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            print
+    sequenceNumber:  286
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            ComplexConstant
+    sequenceNumber:  287
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            saveFractalImage
+    sequenceNumber:  288
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            debugDescription
+    sequenceNumber:  289
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            intValue
+    sequenceNumber:  290
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            description
+    sequenceNumber:  291
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            Parameters
+    sequenceNumber:  292
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            validate
+    sequenceNumber:  293
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals9ImageSizeV
+      name:            init
+    sequenceNumber:  294
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            OptionGroup
+    sequenceNumber:  295
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals9ImageSizeV
+      name:            ''
+    sequenceNumber:  296
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            String
+    sequenceNumber:  297
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            hashValue
+    sequenceNumber:  298
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10TensorFlow6DeviceV
+      name:            defaultTFEager
+    sequenceNumber:  299
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            parameters
+    sequenceNumber:  300
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            Option
+    sequenceNumber:  301
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            validate
+    sequenceNumber:  302
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            x10
+    sequenceNumber:  303
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            constant
+    sequenceNumber:  304
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            wrappedValue
+    sequenceNumber:  305
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            description
+    sequenceNumber:  306
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         10TensorFlow01_aB18DataTypeCompatibleP
+      name:            ''
+    sequenceNumber:  307
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            _x10
+    sequenceNumber:  308
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            init
+    sequenceNumber:  309
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            _rawHashValue
+    sequenceNumber:  310
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            ComplexRegion
+    sequenceNumber:  311
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            defaultTFEager
+    sequenceNumber:  312
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            configuration
+    sequenceNumber:  313
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            main
+    sequenceNumber:  314
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            intValue
+    sequenceNumber:  315
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         8Fractals15ComplexConstantV
+      name:            ''
+    sequenceNumber:  316
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            validate
+    sequenceNumber:  317
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            region
+    sequenceNumber:  318
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s26DefaultStringInterpolationV
+      name:            appendInterpolation
+    sequenceNumber:  319
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            print
+    sequenceNumber:  320
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser13ParsedWrapperP
+      name:            wrappedValue
+    sequenceNumber:  321
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            configuration
+    sequenceNumber:  322
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            OptionGroup
+    sequenceNumber:  323
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            hash
+    sequenceNumber:  324
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            commandName
+    sequenceNumber:  325
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            x10
+    sequenceNumber:  326
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            hashValue
+    sequenceNumber:  327
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            init
+    sequenceNumber:  328
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            ImageSize
+    sequenceNumber:  329
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            configuration
+    sequenceNumber:  330
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            intValue
+    sequenceNumber:  331
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            _iterations
+    sequenceNumber:  332
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            configuration
+    sequenceNumber:  333
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            debugDescription
+    sequenceNumber:  334
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            tolerance
+    sequenceNumber:  335
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            ValidationError
+    sequenceNumber:  336
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SF
+      name:            ''
+    sequenceNumber:  337
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            _parameters
+    sequenceNumber:  338
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         10TensorFlow6DeviceV
+      name:            defaultXLA
+    sequenceNumber:  339
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            description
+    sequenceNumber:  340
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            description
+    sequenceNumber:  341
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            _imageSize
+    sequenceNumber:  342
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            parameters
+    sequenceNumber:  343
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            mandelbrotSet
+    sequenceNumber:  344
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s26DefaultStringInterpolationV
+      name:            appendLiteral
+    sequenceNumber:  345
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            intValue
+    sequenceNumber:  346
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            tolerance
+    sequenceNumber:  347
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            _constant
+    sequenceNumber:  348
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            ''
+    sequenceNumber:  349
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            hash
+    sequenceNumber:  350
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            _parameters
+    sequenceNumber:  351
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            ComplexConstant
+    sequenceNumber:  352
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            OptionGroup
+    sequenceNumber:  353
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser6OptionV
+      name:            init
+    sequenceNumber:  354
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser6OptionV
+      name:            subscript
+    sequenceNumber:  355
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            _rawHashValue
+    sequenceNumber:  356
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            '=='
+    sequenceNumber:  357
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            ParsableCommand
+    sequenceNumber:  358
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            eager
+    sequenceNumber:  359
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            run
+    sequenceNumber:  360
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            Parameters
+    sequenceNumber:  361
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            OptionGroup
+    sequenceNumber:  362
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            '=='
+    sequenceNumber:  363
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            Flag
+    sequenceNumber:  364
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            _rawHashValue
+    sequenceNumber:  365
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            stringValue
+    sequenceNumber:  366
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            tolerance
+    sequenceNumber:  367
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         14ArgumentParser0A11SetProviderP
+      name:            ''
+    sequenceNumber:  368
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            FractalCommand
+    sequenceNumber:  369
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            main
+    sequenceNumber:  370
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            parameters
+    sequenceNumber:  371
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Se
+      name:            ''
+    sequenceNumber:  372
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            _x10
+    sequenceNumber:  373
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            CodingKeys
+    sequenceNumber:  374
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            __derived_enum_equals
+    sequenceNumber:  375
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            ComplexRegion
+    sequenceNumber:  376
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            _x10
+    sequenceNumber:  377
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            ImageSize
+    sequenceNumber:  378
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            ValidationError
+    sequenceNumber:  379
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            stringValue
+    sequenceNumber:  380
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            parameters
+    sequenceNumber:  381
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            outputFile
+    sequenceNumber:  382
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            commandName
+    sequenceNumber:  383
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            main
+    sequenceNumber:  384
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser22DecodableParsedWrapperP
+      name:            init
+    sequenceNumber:  385
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         Sx
+      name:            ''
+    sequenceNumber:  386
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            defaultTFEager
+    sequenceNumber:  387
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            juliaSet
+    sequenceNumber:  388
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            juliaSet
+    sequenceNumber:  389
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            stringValue
+    sequenceNumber:  390
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            CommandConfiguration
+    sequenceNumber:  391
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            Option
+    sequenceNumber:  392
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            configuration
+    sequenceNumber:  393
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            init
+    sequenceNumber:  394
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            defaultXLA
+    sequenceNumber:  395
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            print
+    sequenceNumber:  396
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s34_ExpressibleByBuiltinStringLiteralP
+      name:            init
+    sequenceNumber:  397
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            _commandName
+    sequenceNumber:  398
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            imageSize
+    sequenceNumber:  399
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            hashValue
+    sequenceNumber:  400
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            eager
+    sequenceNumber:  401
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser11OptionGroupV
+      name:            projectedValue
+    sequenceNumber:  402
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            CommandConfiguration
+    sequenceNumber:  403
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s18AdditiveArithmeticP
+      name:            ''
+    sequenceNumber:  404
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            commandName
+    sequenceNumber:  405
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            ParsableArguments
+    sequenceNumber:  406
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            parameters
+    sequenceNumber:  407
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser22DecodableParsedWrapperP
+      name:            wrappedValue
+    sequenceNumber:  408
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            hash
+    sequenceNumber:  409
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser11OptionGroupV
+      name:            wrapperValue
+    sequenceNumber:  410
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            FractalCommand
+    sequenceNumber:  411
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser4FlagV
+      name:            init
+    sequenceNumber:  412
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser4FlagV
+      name:            subscript
+    sequenceNumber:  413
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            ValidationError
+    sequenceNumber:  414
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            stringValue
+    sequenceNumber:  415
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            stringValue
+    sequenceNumber:  416
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            constant
+    sequenceNumber:  417
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            hash
+    sequenceNumber:  418
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            saveFractalImage
+    sequenceNumber:  419
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            CommandConfiguration
+    sequenceNumber:  420
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            hash
+    sequenceNumber:  421
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            hashValue
+    sequenceNumber:  422
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s32ExpressibleByStringInterpolationP
+      name:            StringInterpolation
+    sequenceNumber:  423
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            _imageSize
+    sequenceNumber:  424
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            region
+    sequenceNumber:  425
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            configuration
+    sequenceNumber:  426
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            print
+    sequenceNumber:  427
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            defaultXLA
+    sequenceNumber:  428
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            hash
+    sequenceNumber:  429
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            CommandConfiguration
+    sequenceNumber:  430
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            description
+    sequenceNumber:  431
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            eager
+    sequenceNumber:  432
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            stringValue
+    sequenceNumber:  433
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            ImageSize
+    sequenceNumber:  434
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            appendInterpolation
+    sequenceNumber:  435
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            CodingKeys
+    sequenceNumber:  436
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            eager
+    sequenceNumber:  437
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            _constant
+    sequenceNumber:  438
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            init
+    sequenceNumber:  439
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            Flag
+    sequenceNumber:  440
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser6OptionV
+      name:            wrapperValue
+    sequenceNumber:  441
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s27StringInterpolationProtocolP
+      name:            appendInterpolation
+    sequenceNumber:  442
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            ComplexRegion
+    sequenceNumber:  443
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            saveFractalImage
+    sequenceNumber:  444
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            OptionGroup
+    sequenceNumber:  445
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            debugDescription
+    sequenceNumber:  446
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            intValue
+    sequenceNumber:  447
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s26ExpressibleByStringLiteralP
+      name:            init
+    sequenceNumber:  448
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s16TextOutputStreamP
+      name:            appendLiteral
+    sequenceNumber:  449
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            outputFile
+    sequenceNumber:  450
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            CommandConfiguration
+    sequenceNumber:  451
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            imageSize
+    sequenceNumber:  452
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SQ
+      name:            ''
+    sequenceNumber:  453
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser4FlagV
+      name:            wrapperValue
+    sequenceNumber:  454
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            '=='
+    sequenceNumber:  455
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            outputFile
+    sequenceNumber:  456
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            _eager
+    sequenceNumber:  457
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s9CodingKeyP
+      name:            intValue
+    sequenceNumber:  458
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         SL
+      name:            ''
+    sequenceNumber:  459
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            _outputFile
+    sequenceNumber:  460
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            Option
+    sequenceNumber:  461
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            OptionGroup
+    sequenceNumber:  462
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            ParsableCommand
+    sequenceNumber:  463
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            _rawHashValue
+    sequenceNumber:  464
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            commandName
+    sequenceNumber:  465
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s30KeyedDecodingContainerProtocolP
+      name:            decode
+    sequenceNumber:  466
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            mandelbrotSet
+    sequenceNumber:  467
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            x10
+    sequenceNumber:  468
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            run
+    sequenceNumber:  469
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            _iterations
+    sequenceNumber:  470
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals15ComplexConstantV
+      name:            init
+    sequenceNumber:  471
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            stringValue
+    sequenceNumber:  472
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            parameters
+    sequenceNumber:  473
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            ValidationError
+    sequenceNumber:  474
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            JuliaSubcommand
+    sequenceNumber:  475
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            Device
+    sequenceNumber:  476
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            Device
+    sequenceNumber:  477
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s6HasherV
+      name:            combine
+    sequenceNumber:  478
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SH
+      name:            init
+    sequenceNumber:  479
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            debugDescription
+    sequenceNumber:  480
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            Flag
+    sequenceNumber:  481
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            ''
+    sequenceNumber:  482
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            CommandConfiguration
+    sequenceNumber:  483
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            parameters
+    sequenceNumber:  484
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            '=='
+    sequenceNumber:  485
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            intValue
+    sequenceNumber:  486
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            ComplexRegion
+    sequenceNumber:  487
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            Device
+    sequenceNumber:  488
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            juliaSet
+    sequenceNumber:  489
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV15JuliaSubcommandV
+      name:            validate
+    sequenceNumber:  490
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            _iterations
+    sequenceNumber:  491
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s5ErrorP
+      name:            init
+    sequenceNumber:  492
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            constant
+    sequenceNumber:  493
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            imageSize
+    sequenceNumber:  494
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            JuliaSubcommand
+    sequenceNumber:  495
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            validate
+    sequenceNumber:  496
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            FractalCommand
+    sequenceNumber:  497
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s28CustomDebugStringConvertibleP
+      name:            debugDescription
+    sequenceNumber:  498
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            mandelbrotSet
+    sequenceNumber:  499
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            eager
+    sequenceNumber:  500
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            iterations
+    sequenceNumber:  501
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            hash
+    sequenceNumber:  502
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            Device
+    sequenceNumber:  503
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s22KeyedDecodingContainerV
+      name:            decode
+    sequenceNumber:  504
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            tolerance
+    sequenceNumber:  505
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            _region
+    sequenceNumber:  506
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            commandName
+    sequenceNumber:  507
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            Option
+    sequenceNumber:  508
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser11OptionGroupV
+      name:            init
+    sequenceNumber:  509
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser11OptionGroupV
+      name:            subscript
+    sequenceNumber:  510
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            _commandName
+    sequenceNumber:  511
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            '=='
+    sequenceNumber:  512
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            _eager
+    sequenceNumber:  513
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            _outputFile
+    sequenceNumber:  514
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s7DecoderP
+      name:            container
+    sequenceNumber:  515
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s23CustomStringConvertibleP
+      name:            init
+    sequenceNumber:  516
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            MandelbrotSubcommand
+    sequenceNumber:  517
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            ComplexConstant
+    sequenceNumber:  518
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser17ParsableArgumentsP
+      name:            init
+    sequenceNumber:  519
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser15ParsableCommandP
+      name:            ParsableArguments
+    sequenceNumber:  520
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            ImageSize
+    sequenceNumber:  521
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            ComplexRegion
+    sequenceNumber:  522
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            _tolerance
+    sequenceNumber:  523
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV
+      name:            ParsableArguments
+    sequenceNumber:  524
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            saveFractalImage
+    sequenceNumber:  525
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         Se
+      name:            x10
+    sequenceNumber:  526
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         14ArgumentParser20CommandConfigurationV
+      name:            init
+    sequenceNumber:  527
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV20MandelbrotSubcommandV
+      name:            CodingKeys
+    sequenceNumber:  528
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV
+      name:            Flag
+    sequenceNumber:  529
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         SQ
+      name:            init
+    sequenceNumber:  530
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals14FractalCommandV10ParametersV10CodingKeys33_D18E81768010C8EBD8B7C58D3989DCE8LLO
+      name:            iterations
+    sequenceNumber:  531
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         8Fractals13ComplexRegionV
+      name:            init
+    sequenceNumber:  532
+    defsIDependUpon: [  ]
+    isProvides:      false
+...
