@@ -13,11 +13,8 @@
 // limitations under the License.
 
 import Foundation
-@_implementationOnly import STBImage
 import TensorFlow
-
-// Image loading and saving is inspired by t-ae's Swim library: https://github.com/t-ae/swim
-// and uses the stb_image single-file C headers from https://github.com/nothings/stb .
+import ImageOps
 
 public struct Image {
     public enum ByteOrdering {
@@ -63,20 +60,20 @@ public struct Image {
             }
             
             var width: Int32 = 0
+            var align: Int32 = 0
             var height: Int32 = 0
+            var pixelFormat: Int32 = 0
+            let inSubsamp: Int32 = 0
             var bpp: Int32 = 0
-            guard let bytes = stbi_load(url.path, &width, &height, &bpp, 0) else {
+            guard let bytes = tjJPEGLoadCompressedImage22(filename: url.path, width: &width, align: &align, height: &height, pixelFormat: &pixelFormat, inSubsamp: inSubsamp, flags: 0) else {
                 // TODO: Proper error propagation for this.
                 fatalError("Unable to read image at: \(url.path).")
             }
 
-            let data = [UInt8](UnsafeBufferPointer(start: bytes, count: Int(width * height * bpp)))
-            stbi_image_free(bytes)
+            let data = [UInt8](UnsafeBufferPointer(start: bytes, count: Int(width * height * 3)))
+            tjFree(bytes)
             var loadedTensor = Tensor<UInt8>(
-                shape: [Int(height), Int(width), Int(bpp)], scalars: data)
-            if bpp == 1 {
-                loadedTensor = loadedTensor.broadcasted(to: [Int(height), Int(width), 3])
-            }
+                shape: [Int(height), Int(width), 3], scalars: data)
             self.imageData = .uint8(data: loadedTensor)
         }
     }
@@ -84,6 +81,7 @@ public struct Image {
     public func save(to url: URL, format: Colorspace = .rgb, quality: Int64 = 95) {
         let outputImageData: Tensor<UInt8>
         let bpp: Int32
+        var pixelFormat: Int32 = 0
 
         switch format {
         case .grayscale:
@@ -108,9 +106,9 @@ public struct Image {
         let height = Int32(outputImageData.shape[0])
         let width = Int32(outputImageData.shape[1])
         outputImageData.scalars.withUnsafeBufferPointer { bytes in
-            let status = stbi_write_jpg(
-                url.path, width, height, bpp, bytes.baseAddress!, Int32(quality))
-            guard status != 0 else {
+            let status = tjJPEGSaveImage22(
+                    filename: url.path, buffer: bytes.baseAddress!, width: width, pitch: 0, height: height, pixelFormat: 0, outSubsamp: 0, flags: 0)
+            guard status == 0 else {
                 // TODO: Proper error propagation for this.
                 fatalError("Unable to save image to: \(url.path).")
             }
