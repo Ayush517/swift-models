@@ -65,7 +65,7 @@ public struct Image {
             var pixelFormat: Int32 = 0
             let inSubsamp: Int32 = 0
             var bpp: Int32 = 0
-            guard let bytes = tjJPEGLoadCompressedImage22(filename: url.path, width: &width, align: &align, height: &height, pixelFormat: &pixelFormat, inSubsamp: inSubsamp, flags: 0) else {
+            guard let bytes = tjJPEGLoadCompressedImage(filename: url.path, width: &width, align: &align, height: &height, pixelFormat: &pixelFormat, inSubsamp: inSubsamp, flags: 0) else {
                 // TODO: Proper error propagation for this.
                 fatalError("Unable to read image at: \(url.path).")
             }
@@ -106,7 +106,7 @@ public struct Image {
         let height = Int32(outputImageData.shape[0])
         let width = Int32(outputImageData.shape[1])
         outputImageData.scalars.withUnsafeBufferPointer { bytes in
-            let status = tjJPEGSaveImage22(
+            let status = tjJPEGSaveImage(
                     filename: url.path, buffer: bytes.baseAddress!, width: width, pitch: 0, height: height, pixelFormat: 0, outSubsamp: 0, flags: 0)
             guard status == 0 else {
                 // TODO: Proper error propagation for this.
